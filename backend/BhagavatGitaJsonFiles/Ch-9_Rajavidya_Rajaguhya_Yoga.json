@@ -1,0 +1,833 @@
+[
+  {
+    "id": "9.1",
+    "chapter": 9,
+    "verse": 1,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nइदं तु ते गुह्यतमं प्रवक्ष्याम्यनसूयवे ।\nज्ञानं विज्ञानसहितं यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥९-१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: I shall now declare to you, who are free from envy, this most secret knowledge along with realization, knowing which you shall be freed from evil."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—मैं तुम्हें, जो दोषदृष्टि से रहित हो, यह परम गोपनीय ज्ञान विज्ञान सहित बताऊँगा, जिसे जानकर तुम अशुभ से मुक्त हो जाओगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.2",
+    "chapter": 9,
+    "verse": 2,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "राजविद्या राजगुह्यं पवित्रमिदमुत्तमम् ।\nप्रत्यक्षावगमं धर्म्यं सुसुखं कर्तुमव्ययम् ॥९-२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "This is the king of knowledge, the king of secrets, the purest, directly realizable, righteous, very easy to practice, and imperishable."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यह राजविद्या, राजगुह्य, अत्यन्त पवित्र, प्रत्यक्ष अनुभव योग्य, धर्मयुक्त, करने में अत्यन्त सरल और अविनाशी है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.3",
+    "chapter": 9,
+    "verse": 3,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अश्रद्दधानाः पुरुषा धर्मस्यास्य परन्तप ।\nअप्राप्य मां निवर्तन्ते मृत्युसंसारवर्त्मनि ॥९-३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those who have no faith in this knowledge, O Arjuna, do not attain Me but return to the path of birth and death."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे परन्तप! इस धर्म में श्रद्धा न रखने वाले पुरुष मुझे प्राप्त नहीं होते और जन्म-मृत्यु के मार्ग में लौट जाते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.4",
+    "chapter": 9,
+    "verse": 4,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मया ततमिदं सर्वं जगदव्यक्तमूर्तिना ।\nमत्स्थानि सर्वभूतानि न चाहं तेष्ववस्थितः ॥९-४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "By Me, in My unmanifest form, this entire universe is pervaded. All beings exist in Me, but I do not dwell in them."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मेरे अव्यक्त स्वरूप से यह सम्पूर्ण जगत व्याप्त है। सभी प्राणी मुझमें स्थित हैं, परन्तु मैं उनमें स्थित नहीं हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.5",
+    "chapter": 9,
+    "verse": 5,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न च मत्स्थानि भूतानि पश्य मे योगमैश्वरम् ।\nभूतभृन्न च भूतस्थो ममात्मा भूतभावनः ॥९-५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "And yet beings do not dwell in Me. Behold My divine mystery: I sustain all beings, yet I am not situated in them."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "और फिर भी प्राणी मुझमें स्थित नहीं हैं—मेरे इस ऐश्वर्ययुक्त योग को देखो। मेरा आत्मस्वरूप प्राणियों का धारक है, फिर भी उनमें स्थित नहीं है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.6",
+    "chapter": 9,
+    "verse": 6,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यथाकाशस्थितो नित्यं वायुः सर्वत्रगो महान् ।\nतथा सर्वाणि भूतानि मत्स्थानीत्युपधारय ॥९-६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "As the mighty wind, moving everywhere, always rests in space, so all beings rest in Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जैसे सर्वत्र विचरण करने वाली महान वायु आकाश में स्थित रहती है, वैसे ही सब प्राणी मुझमें स्थित हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.7",
+    "chapter": 9,
+    "verse": 7,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सर्वभूतानि कौन्तेय प्रकृतिं यान्ति मामिकाम् ।\nकल्पक्षये पुनस्तानि कल्पादौ विसृजाम्यहम् ॥९-७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "All beings, O Arjuna, merge into My nature at the end of a cycle, and I create them again at the beginning of the next."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कौन्तेय! कल्प के अंत में सभी प्राणी मेरी प्रकृति में लीन हो जाते हैं और कल्प के आदि में मैं उन्हें पुनः उत्पन्न करता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.8",
+    "chapter": 9,
+    "verse": 8,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "प्रकृतिं स्वामवष्टभ्य विसृजामि पुनः पुनः ।\nभूतग्राममिमं कृत्स्नमवशं प्रकृतेर्वशात् ॥९-८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Taking refuge in My own nature, I create again and again all these beings, helpless under the control of nature."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अपनी प्रकृति को अधीन करके मैं बार-बार इस सम्पूर्ण प्राणीसमूह की सृष्टि करता हूँ, जो प्रकृति के वश में होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.9",
+    "chapter": 9,
+    "verse": 9,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न च मां तानि कर्माणि निबध्नन्ति धनंजय ।\nउदासीनवदासीनमसक्तं तेषु कर्मसु ॥९-९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "These actions do not bind Me, O Arjuna, for I remain detached, like one unconcerned."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे धनंजय! ये कर्म मुझे बाँधते नहीं हैं, क्योंकि मैं उनसे उदासीन और असक्त रहता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.10",
+    "chapter": 9,
+    "verse": 10,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मयाध्यक्षेण प्रकृतिः सूयते सचराचरम् ।\nहेतुनानेन कौन्तेय जगद्विपरिवर्तते ॥९-१०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Under My supervision, nature produces the moving and non-moving beings; by this cause, the universe revolves."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कौन्तेय! मेरी अध्यक्षता में प्रकृति चर-अचर जगत की सृष्टि करती है; इसी कारण संसार चलता रहता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.11",
+    "chapter": 9,
+    "verse": 11,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अवजानन्ति मां मूढा मानुषीं तनुमाश्रितम् ।\nपरं भावमजानन्तो मम भूतमहेश्वरम् ॥९-११॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Fools disregard Me when I appear in human form, not knowing My supreme nature as the Lord of all beings."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मूढ़ लोग मेरे मनुष्य रूप को देखकर मेरा तिरस्कार करते हैं, मेरे परम भाव को नहीं जानते जो समस्त प्राणियों का ईश्वर है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.12",
+    "chapter": 9,
+    "verse": 12,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मोघाशा मोघकर्माणो मोघज्ञाना विचेतसः ।\nराक्षसीमासुरीं चैव प्रकृतिं मोहिनीं श्रिताः ॥९-१२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Their hopes, actions, and knowledge are all in vain; they are deluded and take refuge in demoniac and atheistic nature."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "उनकी आशाएँ, कर्म और ज्ञान सब व्यर्थ होते हैं; वे मोहिनी आसुरी और राक्षसी प्रकृति का आश्रय लेते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.13",
+    "chapter": 9,
+    "verse": 13,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "महात्मानस्तु मां पार्थ दैवीं प्रकृतिमाश्रिताः ।\nभजन्त्यनन्यमनसो ज्ञात्वा भूतादिमव्ययम् ॥९-१३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "But the great souls, O Arjuna, taking refuge in divine nature, worship Me with undivided devotion, knowing Me as the imperishable source of all beings."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! महात्मा पुरुष दैवी प्रकृति का आश्रय लेकर, मुझे समस्त प्राणियों का अविनाशी आदि जानकर अनन्य भाव से भजते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.14",
+    "chapter": 9,
+    "verse": 14,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सततं कीर्तयन्तो मां यतन्तश्च दृढव्रताः ।\nनमस्यन्तश्च मां भक्त्या नित्ययुक्ता उपासते ॥९-१४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Always glorifying Me, striving with firm vows, bowing down to Me with devotion, they constantly worship Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वे निरन्तर मेरा कीर्तन करते हुए, दृढ़ व्रत से युक्त, भक्ति से मुझे नमस्कार करते हुए सदा मेरी उपासना करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.15",
+    "chapter": 9,
+    "verse": 15,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ज्ञानयज्ञेन चाप्यन्ये यजन्तो मामुपासते ।\nएकत्वेन पृथक्त्वेन बहुधा विश्वतोमुखम् ॥९-१५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Others worship Me by the sacrifice of knowledge, regarding Me as one, distinct, or manifold, facing all directions."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अन्य लोग ज्ञान-यज्ञ द्वारा मेरी उपासना करते हैं—मुझे एक, भिन्न-भिन्न और अनेक रूपों में सर्वतोमुख जानकर।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.16",
+    "chapter": 9,
+    "verse": 16,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अहं क्रतुरहं यज्ञः स्वधाहमहमौषधम् ।\nमन्त्रोऽहमहमेवाज्यमहमग्निरहं हुतम् ॥९-१६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I am the ritual, I am the sacrifice, I am the offering to ancestors, I am the medicinal herb, I am the mantra, I am the clarified butter, I am the fire, and I am the oblation."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं ही क्रतु हूँ, मैं ही यज्ञ हूँ, मैं ही स्वधा हूँ, मैं ही औषधि हूँ, मैं ही मंत्र हूँ, मैं ही घृत, अग्नि और हवन हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.17",
+    "chapter": 9,
+    "verse": 17,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "पिताहमस्य जगतो माता धाता पितामहः ।\nवेद्यं पवित्रमोंकार ऋक्साम यजुरेव च ॥९-१७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I am the father, mother, sustainer, and grandsire of this universe; I am the object of knowledge, the purifier, the syllable Om, and also the Rig, Sama, and Yajur Vedas."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं इस जगत का पिता, माता, धाता और पितामह हूँ; मैं जानने योग्य, पवित्र, ओंकार तथा ऋग्वेद, सामवेद और यजुर्वेद हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.18",
+    "chapter": 9,
+    "verse": 18,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "गतिर्भर्ता प्रभुः साक्षी निवासः शरणं सुहृत् ।\nप्रभवः प्रलयः स्थानं निधानं बीजमव्ययम् ॥९-१८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I am the goal, the supporter, the Lord, the witness, the abode, the refuge, and the friend; I am the origin, dissolution, foundation, repository, and imperishable seed."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं गति, भर्ता, प्रभु, साक्षी, निवास, शरण और सुहृद हूँ; मैं उत्पत्ति, प्रलय, आधार, निधि और अविनाशी बीज हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.19",
+    "chapter": 9,
+    "verse": 19,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तपाम्यहमहं वर्षं निगृह्णाम्युत्सृजामि च ।\nअमृतं चैव मृत्युश्च सदसच्चाहमर्जुन ॥९-१९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I give heat, I withhold and send forth rain; I am immortality and death, existence and non-existence, O Arjuna."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे अर्जुन! मैं ही ताप देता हूँ, वर्षा को रोकता और बरसाता हूँ; मैं अमृत और मृत्यु, सत् और असत् हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+
+  {
+    "id": "9.20",
+    "chapter": 9,
+    "verse": 20,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "त्रैविद्या मां सोमपाः पूतपापा यज्ञैरिष्ट्वा स्वर्गतिं प्रार्थयन्ते ।\nते पुण्यमासाद्य सुरेन्द्रलोकमश्नन्ति दिव्यान्दिवि देवभोगान् ॥९-२०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those who know the three Vedas, drink Soma, and are purified of sin worship Me through sacrifices and pray for heaven; attaining the realm of Indra, they enjoy divine pleasures."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "तीनों वेदों को जानने वाले, सोमपान करने वाले, पापरहित पुरुष यज्ञों द्वारा मेरी उपासना करके स्वर्ग की कामना करते हैं और इन्द्रलोक में दिव्य भोग भोगते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.21",
+    "chapter": 9,
+    "verse": 21,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ते तं भुक्त्वा स्वर्गलोकं विशालं\nक्षीणे पुण्ये मर्त्यलोकं विशन्ति ।\nएवं त्रयीधर्ममनुप्रपन्ना\ngatāgatं कामकामा लभन्ते ॥९-२१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "After enjoying the vast heavenly world, when their merit is exhausted, they return to the mortal world. Thus, following the rituals of the three Vedas, desiring pleasures, they repeatedly come and go."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वे उस विशाल स्वर्गलोक को भोगकर, पुण्य क्षीण होने पर पुनः मर्त्यलोक में लौट आते हैं। इस प्रकार त्रैवेदिक धर्म का पालन करने वाले कामनापरायण लोग आवागमन को प्राप्त होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.22",
+    "chapter": 9,
+    "verse": 22,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अनन्याश्चिन्तयन्तो मां ये जनाः पर्युपासते ।\nतेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् ॥९-२२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those who always worship Me with exclusive devotion, meditating on Me, to them I carry what they lack and preserve what they have."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो अनन्य भाव से निरन्तर मेरा चिन्तन करते हुए मेरी उपासना करते हैं, उनके योगक्षेम का वहन मैं स्वयं करता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.23",
+    "chapter": 9,
+    "verse": 23,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "येऽप्यन्यदेवताभक्ता यजन्ते श्रद्धयान्विताः ।\nतेऽपि मामेव कौन्तेय यजन्त्यविधिपूर्वकम् ॥९-२३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Even those who worship other gods with faith actually worship Me alone, O Arjuna, but in an improper way."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कौन्तेय! जो श्रद्धा से अन्य देवताओं की उपासना करते हैं, वे भी वास्तव में मेरी ही उपासना करते हैं, किंतु अविधिपूर्वक।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.24",
+    "chapter": 9,
+    "verse": 24,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अहं हि सर्वयज्ञानां भोक्ता च प्रभुरेव च ।\nन तु मामभिजानन्ति तत्त्वेनातश्च्यवन्ति ते ॥९-२४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I alone am the enjoyer and Lord of all sacrifices, but they do not know Me in truth; therefore, they fall."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं ही समस्त यज्ञों का भोक्ता और स्वामी हूँ, किंतु वे मुझे तत्त्व से नहीं जानते, इसलिए वे पतित हो जाते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.25",
+    "chapter": 9,
+    "verse": 25,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यान्ति देवव्रता देवान् पितॄन्यान्ति पितृव्रताः ।\nभूतानि यान्ति भूतेज्या यान्ति मद्याजिनोऽपि माम् ॥९-२५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Worshippers of the gods go to the gods; worshippers of ancestors go to the ancestors; worshippers of spirits go to the spirits; but My devotees come to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "देवताओं के उपासक देवताओं को, पितरों के उपासक पितरों को, भूतों के उपासक भूतों को प्राप्त होते हैं; और मेरे उपासक मुझे प्राप्त होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.26",
+    "chapter": 9,
+    "verse": 26,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥९-२६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Whoever offers Me with devotion a leaf, a flower, a fruit, or water, I accept that loving offering from the pure-hearted."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो भक्त प्रेमपूर्वक मुझे पत्र, पुष्प, फल या जल अर्पित करता है, उस शुद्धचित्त भक्त की भक्ति से अर्पित वस्तु मैं स्वीकार करता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.27",
+    "chapter": 9,
+    "verse": 27,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यत्करोषि यदश्नासि यज्जुहोषि ददासि यत् ।\nयत्तपस्यसि कौन्तेय तत्कुरुष्व मदर्पणम् ॥९-२७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Whatever you do, whatever you eat, whatever you offer or give, and whatever austerity you perform—do that as an offering to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कौन्तेय! जो कुछ तुम करते हो, खाते हो, यज्ञ करते हो, दान देते हो या तप करते हो—उसे मुझे अर्पण करके करो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.28",
+    "chapter": 9,
+    "verse": 28,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "शुभाशुभफलैरेवं मोक्ष्यसे कर्मबन्धनैः ।\nसंन्यासयोगयुक्तात्मा विमुक्तो मामुपैष्यसि ॥९-२८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Thus you shall be freed from the bondage of actions yielding good and bad results; with the mind united in renunciation, you will come to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस प्रकार तुम शुभ-अशुभ कर्मफल के बंधन से मुक्त हो जाओगे और संन्यासयोग से युक्त होकर मुझे प्राप्त करोगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.29",
+    "chapter": 9,
+    "verse": 29,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "समोऽहं सर्वभूतेषु न मे द्वेष्योऽस्ति न प्रियः ।\nये भजन्ति तु मां भक्त्या मयि ते तेषु चाप्यहम् ॥९-२९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I am equal to all beings; I have no hatred or favoritism. But those who worship Me with devotion are in Me, and I am in them."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं सभी प्राणियों में समभाव रखता हूँ; न कोई मेरा द्वेष्य है न प्रिय। किंतु जो भक्ति से मेरी उपासना करते हैं, वे मुझमें हैं और मैं उनमें हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.30",
+    "chapter": 9,
+    "verse": 30,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अपि चेत्सुदुराचारो भजते मामनन्यभाक् ।\nसाधुरेव स मन्तव्यः सम्यग्व्यवसितो हि सः ॥९-३०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Even if a person of very bad conduct worships Me with exclusive devotion, he should be regarded as righteous, for he has resolved rightly."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यदि कोई अत्यन्त दुराचारी भी अनन्य भाव से मेरी भक्ति करता है, तो वह साधु ही माना जाना चाहिए, क्योंकि उसका निश्चय सही है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.31",
+    "chapter": 9,
+    "verse": 31,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "क्षिप्रं भवति धर्मात्मा शश्वच्छान्तिं निगच्छति ।\nकौन्तेय प्रतिजानीहि न मे भक्तः प्रणश्यति ॥९-३१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Soon he becomes righteous and attains lasting peace. O Arjuna, declare it boldly that My devotee never perishes."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वह शीघ्र ही धर्मात्मा हो जाता है और शाश्वत शान्ति को प्राप्त करता है। हे कौन्तेय! तुम यह घोषित कर दो कि मेरा भक्त कभी नष्ट नहीं होता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.32",
+    "chapter": 9,
+    "verse": 32,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मां हि पार्थ व्यपाश्रित्य येऽपि स्युः पापयोनयः ।\nस्त्रियो वैश्यास्तथा शूद्रास्तेऽपि यान्ति परां गतिम् ॥९-३२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "For those who take refuge in Me, O Arjuna—even if they are of sinful birth—women, merchants, and laborers—they also attain the supreme destination."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! जो मुझमें आश्रय लेते हैं, चाहे वे पापयोनियों में जन्मे हों—स्त्रियाँ, वैश्य या शूद्र—वे भी परम गति को प्राप्त होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.33",
+    "chapter": 9,
+    "verse": 33,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "किं पुनर्ब्राह्मणाः पुण्या भक्ताः राजर्षयस्तथा ।\nअनित्यमसुखं लोकमिमं प्राप्य भजस्व माम् ॥९-३३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "How much more then the righteous Brahmins and devoted royal sages! Having attained this impermanent and sorrowful world, worship Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "फिर तो पुण्यशील ब्राह्मण और भक्त राजर्षियों की तो बात ही क्या! इस अनित्य और दुःखमय संसार को पाकर मेरी भक्ति करो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  },
+  {
+    "id": "9.34",
+    "chapter": 9,
+    "verse": 34,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।\nमामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे ॥९-३४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Fix your mind on Me, be devoted to Me, worship Me, bow down to Me. Thus you shall come to Me; truly I promise you, for you are dear to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मुझमें मन लगाओ, मेरे भक्त बनो, मेरी पूजा करो और मुझे नमस्कार करो—इस प्रकार तुम मुझे ही प्राप्त होओगे; मैं सत्य प्रतिज्ञा करता हूँ, तुम मुझे प्रिय हो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "raja_vidya_raja_guhya_yoga"
+    }
+  }
+]

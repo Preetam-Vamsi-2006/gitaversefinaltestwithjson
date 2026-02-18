@@ -1,0 +1,724 @@
+[
+  {
+    "id": "5.1",
+    "chapter": 5,
+    "verse": 1,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अर्जुन उवाच ।\nसंन्यासं कर्मणां कृष्ण पुनर्योगं च शंससि ।\nयच्छ्रेय एतयोरेकं तन्मे ब्रूहि सुनिश्चितम् ॥५-१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Arjuna said: O Krishna, You praise renunciation of actions and also Yoga. Tell me decisively which of the two is better."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन बोले—हे कृष्ण! आप कर्मसंन्यास और कर्मयोग दोनों की प्रशंसा करते हैं। इन दोनों में से जो श्रेष्ठ है, वह निश्चित रूप से मुझे बताइए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "5.2",
+    "chapter": 5,
+    "verse": 2,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nसंन्यासः कर्मयोगश्च निःश्रेयसकरावुभौ ।\nतयोस्तु कर्मसंन्यासात्कर्मयोगो विशिष्यते ॥५-२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: Both renunciation and Karma Yoga lead to liberation, but Karma Yoga is superior to renunciation of action."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—कर्मसंन्यास और कर्मयोग दोनों ही कल्याणकारी हैं, किंतु कर्मसंन्यास से कर्मयोग श्रेष्ठ है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "5.3",
+    "chapter": 5,
+    "verse": 3,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ज्ञेयः स नित्यसंन्यासी यो न द्वेष्टि न काङ्क्षति ।\nनिर्द्वन्द्वो हि महाबाहो सुखं बन्धात्प्रमुच्यते ॥५-३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He should be known as a constant renunciate who neither hates nor desires; free from dualities, he is easily liberated from bondage."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो न द्वेष करता है न इच्छा, वह सदा संन्यासी है; द्वंद्वों से रहित वह सहज ही बंधन से मुक्त हो जाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.4",
+    "chapter": 5,
+    "verse": 4,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सांख्ययोगौ पृथग्बालाः प्रवदन्ति न पण्डिताः ।\nएकमप्यास्थितः सम्यगुभयोर्विन्दते फलम् ॥५-४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Only the ignorant speak of Sankhya and Yoga as different; one who is established in either attains the fruit of both."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अज्ञानी ही सांख्य और योग को अलग कहते हैं; जो किसी एक में भी सम्यक् स्थित है, वह दोनों का फल पाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.5",
+    "chapter": 5,
+    "verse": 5,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यत्सांख्यैः प्राप्यते स्थानं तद्योगैरपि गम्यते ।\nएकं सांख्यं च योगं च यः पश्यति स पश्यति ॥५-५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The state reached by Sankhya is also attained by Yoga; he who sees Sankhya and Yoga as one truly sees."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "सांख्य से जो स्थिति प्राप्त होती है, वही योग से भी मिलती है; जो दोनों को एक देखता है, वही सही देखता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.6",
+    "chapter": 5,
+    "verse": 6,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "संन्यासस्तु महाबाहो दुःखमाप्तुमयोगतः ।\nयोगयुक्तो मुनिर्ब्रह्म नचिरेणाधिगच्छति ॥५-६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Renunciation without Yoga is difficult to attain; but the yogi quickly reaches Brahman."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "योग के बिना संन्यास दुःखद है; योगयुक्त मुनि शीघ्र ही ब्रह्म को प्राप्त करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.7",
+    "chapter": 5,
+    "verse": 7,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "योगयुक्तो विशुद्धात्मा विजितात्मा जितेन्द्रियः ।\nसर्वभूतात्मभूतात्मा कुर्वन्नपि न लिप्यते ॥५-७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The yogi who is pure, self-controlled, and senses subdued, though acting, is not tainted."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "योगयुक्त, शुद्धात्मा, संयमी और इंद्रियों को जीतने वाला कर्म करता हुआ भी लिप्त नहीं होता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.8",
+    "chapter": 5,
+    "verse": 8,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "नैव किञ्चित्करोमीति युक्तो मन्येत तत्त्ववित् ।\nपश्यञ्शृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपन्श्वसन् ॥५-८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The knower of truth thinks, ‘I do nothing at all,’ seeing, hearing, touching, smelling, eating, walking, sleeping, breathing."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "तत्त्वज्ञानी यह जानता है कि देखते, सुनते, खाते, चलते हुए भी मैं कुछ नहीं करता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.9",
+    "chapter": 5,
+    "verse": 9,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "प्रलपन्विसृजन्गृह्णन्नुन्मिषन्निमिषन्नपि ।\nइन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन् ॥५-९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Speaking, releasing, grasping, opening and closing the eyes, he knows that the senses act among sense-objects."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "बोलते, छोड़ते, पकड़ते, आँखें खोलते-बंद करते हुए वह जानता है कि इंद्रियाँ विषयों में कार्य कर रही हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.10",
+    "chapter": 5,
+    "verse": 10,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति यः ।\nलिप्यते न स पापेन पद्मपत्रमिवाम्भसा ॥५-१०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who performs actions, offering them to Brahman and abandoning attachment, is not tainted by sin, like a lotus leaf by water."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कर्मों को ब्रह्म में अर्पित कर आसक्ति छोड़कर करता है, वह पाप से वैसे ही अछूता रहता है जैसे कमलपत्र जल से।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.11",
+    "chapter": 5,
+    "verse": 11,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कायेन मनसा बुद्ध्या केवलैरिन्द्रियैरपि ।\nयोगिनः कर्म कुर्वन्ति सङ्गं त्यक्त्वाऽऽत्मशुद्धये ॥५-११॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Yogis perform actions with body, mind, intellect, and senses, abandoning attachment, for self-purification."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "योगी शरीर, मन, बुद्धि और इंद्रियों से आसक्ति त्यागकर आत्मशुद्धि हेतु कर्म करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.12",
+    "chapter": 5,
+    "verse": 12,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "युक्तः कर्मफलं त्यक्त्वा शान्तिमाप्नोति नैष्ठिकीम् ।\nअयुक्तः कामकारेण फले सक्तो निबध्यते ॥५-१२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The disciplined person attains peace by renouncing the fruits of action; the undisciplined is bound by attachment to results."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कर्मफल त्यागने वाला योगी परम शांति पाता है; फल में आसक्त व्यक्ति बंधन में पड़ता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.13",
+    "chapter": 5,
+    "verse": 13,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सर्वकर्माणि मनसा संन्यस्यास्ते सुखं वशी ।\nनवद्वारे पुरे देही नैव कुर्वन्न कारयन् ॥५-१३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Renouncing all actions mentally, the embodied one rests happily, neither acting nor causing action."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मन से सब कर्मों का संन्यास कर देहधारी नौ द्वारों वाले शरीर में सुखपूर्वक रहता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.14",
+    "chapter": 5,
+    "verse": 14,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न कर्तृत्वं न कर्माणि लोकस्य सृजति प्रभुः ।\nन कर्मफलसंयोगं स्वभावस्तु प्रवर्तते ॥५-१४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Lord creates neither agency nor actions nor union with results; nature alone acts."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "ईश्वर न कर्तापन रचता है न कर्म; स्वभाव ही सब कुछ करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.15",
+    "chapter": 5,
+    "verse": 15,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "नादत्ते कस्यचित्पापं न चैव सुकृतं विभुः ।\nअज्ञानेनावृतं ज्ञानं तेन मुह्यन्ति जन्तवः ॥५-१५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Lord takes neither sin nor merit; knowledge is veiled by ignorance, and beings are deluded."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "ईश्वर न पाप लेता है न पुण्य; अज्ञान से ज्ञान ढका होने के कारण प्राणी मोहित होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.16",
+    "chapter": 5,
+    "verse": 16,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ज्ञानेन तु तदज्ञानं येषां नाशितमात्मनः ।\nतेषामादित्यवज्ज्ञानं प्रकाशयति तत्परम् ॥५-१६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "But for those whose ignorance is destroyed by knowledge, that knowledge shines like the sun."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिनका अज्ञान ज्ञान से नष्ट हो गया है, उनका ज्ञान सूर्य की भांति प्रकाशित होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.17",
+    "chapter": 5,
+    "verse": 17,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तद्बुद्धयस्तदात्मानस्तन्निष्ठास्तत्परायणाः ।\nगच्छन्त्यपुनरावृत्तिं ज्ञाननिर्धूतकल्मषाः ॥५-१७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those whose intellect is absorbed in That attain liberation, freed from impurities by knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिनकी बुद्धि, आत्मा और निष्ठा उसी में स्थित है, वे ज्ञान से पापरहित होकर पुनर्जन्म से मुक्त होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.18",
+    "chapter": 5,
+    "verse": 18,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "विद्याविनयसम्पन्ने ब्राह्मणे गवि हस्तिनि ।\nशुनि चैव श्वपाके च पण्डिताः समदर्शिनः ॥५-१८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The wise see with equal vision a learned Brahmin, a cow, an elephant, a dog, and an outcaste."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "ज्ञानी ब्राह्मण, गाय, हाथी, कुत्ते और चांडाल को समान दृष्टि से देखते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.19",
+    "chapter": 5,
+    "verse": 19,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "इहैव तैर्जितः सर्गो येषां साम्ये स्थितं मनः ।\nनिर्दोषं हि समं ब्रह्म तस्माद्ब्रह्मणि ते स्थिताः ॥५-१९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Even here they have conquered rebirth whose minds are established in equality; Brahman is flawless and equal."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिनका मन समत्व में स्थित है, उन्होंने यहीं जन्म-मरण जीत लिया है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.20",
+    "chapter": 5,
+    "verse": 20,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न प्रहृष्येत्प्रियं प्राप्य नोद्विजेत्प्राप्य चाप्रियम् ।\nस्थिरबुद्धिरसम्मूढो ब्रह्मविद्ब्रह्मणि स्थितः ॥५-२०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He neither rejoices in pleasure nor grieves in pain; steady-minded, he is established in Brahman."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "प्रिय मिलने पर हर्षित न हो और अप्रिय मिलने पर विचलित न हो—वह ब्रह्म में स्थित है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.21",
+    "chapter": 5,
+    "verse": 21,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "बाह्यस्पर्शेष्वसक्तात्मा विन्दत्यात्मनि यत्सुखम् ।\nस ब्रह्मयोगयुक्तात्मा सुखमक्षयमश्नुते ॥५-२१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Detached from external pleasures, he finds joy within and attains imperishable bliss."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "बाह्य विषयों से विरक्त होकर आत्मा में सुख पाने वाला अक्षय आनंद प्राप्त करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.22",
+    "chapter": 5,
+    "verse": 22,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ये हि संस्पर्शजा भोगा दुःखयोनय एव ते ।\nआद्यन्तवन्तः कौन्तेय न तेषु रमते बुधः ॥५-२२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Sense pleasures are sources of sorrow; the wise do not delight in them."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इंद्रिय सुख दुःख के कारण हैं; बुद्धिमान उनमें रमण नहीं करता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.23",
+    "chapter": 5,
+    "verse": 23,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "शक्नोतीहैव यः सोढुं प्राक्शरीरविमोक्षणात् ।\nकामक्रोधोद्भवं वेगं स युक्तः स सुखी नरः ॥५-२३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who can endure desire and anger before death is a yogi and is happy."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो शरीर त्याग से पहले काम और क्रोध के वेग को सहन कर सकता है, वही सुखी योगी है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.24",
+    "chapter": 5,
+    "verse": 24,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "योऽन्तःसुखोऽन्तरारामस्तथाऽन्तर्ज्योतिरेव यः ।\nस योगी ब्रह्मनिर्वाणं ब्रह्मभूतोऽधिगच्छति ॥५-२४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who rejoices within, illumined within, attains liberation in Brahman."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो अंतःसुखी और अंतर्ज्योति है, वह ब्रह्मनिर्वाण को प्राप्त होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.25",
+    "chapter": 5,
+    "verse": 25,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "लभन्ते ब्रह्मनिर्वाणमृषयः क्षीणकल्मषाः ।\nछिन्नद्वैधा यतात्मानः सर्वभूतहिते रताः ॥५-२५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Sages free from sin, whose doubts are destroyed, attain Brahman."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "पापरहित, संशयरहित, संयमी ऋषि ब्रह्मनिर्वाण को प्राप्त होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.26",
+    "chapter": 5,
+    "verse": 26,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कामक्रोधवियुक्तानां यतीनां यतचेतसाम् ।\nअभितो ब्रह्मनिर्वाणं वर्तते विदितात्मनाम् ॥५-२६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "For those free from desire and anger, Brahman is near."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "काम-क्रोध से रहित संयमी ज्ञानी के लिए ब्रह्मनिर्वाण समीप है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.27",
+    "chapter": 5,
+    "verse": 27,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवोः ।\nप्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ ॥५-२७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Shutting out external objects, fixing the gaze between the eyebrows, regulating breath."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "बाह्य विषयों को त्यागकर, दृष्टि भ्रूमध्य में स्थिर कर, प्राण-अपान को सम करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.28",
+    "chapter": 5,
+    "verse": 28,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायणः ।\nविगतेच्छाभयक्रोधो यः सदा मुक्त एव सः ॥५-२८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who controls mind and senses, free from fear and anger, is forever liberated."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिसके इंद्रिय, मन और बुद्धि संयमित हैं, वह सदा मुक्त है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  },
+
+  {
+    "id": "5.29",
+    "chapter": 5,
+    "verse": 29,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "भोक्तारं यज्ञतपसां सर्वलोकमहेश्वरम् ।\nसुहृदं सर्वभूतानां ज्ञात्वा मां शान्तिमृच्छति ॥५-२९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Knowing Me as the enjoyer of sacrifices, the Lord of all worlds, and friend of all beings, one attains peace."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मुझे यज्ञ-तप का भोक्ता, समस्त लोकों का स्वामी और सबका मित्र जानकर मनुष्य शांति प्राप्त करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_sannyasa_yoga"
+    }
+  }
+]

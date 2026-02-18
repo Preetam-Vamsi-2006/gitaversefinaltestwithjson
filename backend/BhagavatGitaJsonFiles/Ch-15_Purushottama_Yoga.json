@@ -1,0 +1,482 @@
+[
+  {
+    "id": "15.1",
+    "chapter": 15,
+    "verse": 1,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nऊर्ध्वमूलमधःशाखमश्वत्थं प्राहुरव्ययम् ।\nछन्दांसि यस्य पर्णानि यस्तं वेद स वेदवित् ॥१५-१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: They speak of an imperishable Ashvattha tree with roots above and branches below, whose leaves are the Vedic hymns. One who knows this tree is a knower of the Vedas."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—ऊपर मूल और नीचे शाखाओं वाले उस अविनाशी अश्वत्थ वृक्ष को कहते हैं, जिसके पत्ते वेद हैं। जो इसे जानता है, वही वेदों का ज्ञाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.2",
+    "chapter": 15,
+    "verse": 2,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अधश्चोर्ध्वं प्रसृतास्तस्य शाखा\nगुणप्रवृद्धा विषयप्रवालाः ।\nअधश्च मूलान्यनुसन्ततानि\nकर्मानुबन्धीनि मनुष्यलोके ॥१५-२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Its branches spread both upward and downward, nourished by the modes of nature; the sense objects are its buds. Its roots extend downward, binding beings to actions in the human world."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "उसकी शाखाएँ ऊपर और नीचे फैली हुई हैं, जो गुणों से पोषित हैं; विषय उसके अंकुर हैं। उसके मूल नीचे फैले हैं, जो मनुष्यलोक में कर्मों से बाँधते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.3",
+    "chapter": 15,
+    "verse": 3,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न रूपमस्येह तथोपलभ्यते\nनान्तो न चादिर्न च सम्प्रतिष्ठा ।\nअश्वत्थमेनं सुविरूढमूलम्\nअसङ्गशस्त्रेण दृढेन छित्त्वा ॥१५-३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Its true form is not perceived here—neither its end, nor its beginning, nor its foundation. Having cut down this deeply rooted Ashvattha tree with the strong axe of detachment—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इसका न तो रूप यहाँ स्पष्ट दिखता है, न अंत, न आदि और न ही प्रतिष्ठा। इस गहराई से जड़े अश्वत्थ वृक्ष को वैराग्य रूपी दृढ़ शस्त्र से काटकर—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.4",
+    "chapter": 15,
+    "verse": 4,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ततः पदं तत्परिमार्गितव्यं\nयस्मिन्गता न निवर्तन्ति भूयः ।\nतमेव चाद्यं पुरुषं प्रपद्ये\nयतः प्रवृत्तिः प्रसृता पुराणी ॥१५-४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Then one should seek that supreme abode from which, having gone, none return. I seek refuge in that primeval Person from whom the ancient activity has emanated."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "तत्पश्चात् उस परम पद की खोज करनी चाहिए, जहाँ जाकर फिर लौटना नहीं होता। मैं उस आदि पुरुष की शरण लेता हूँ, जिससे यह पुरातन सृष्टि प्रवाहित हुई है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.5",
+    "chapter": 15,
+    "verse": 5,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "निर्मानमोहा जितसङ्गदोषा\nअध्यात्मनित्या विनिवृत्तकामाः ।\nद्वन्द्वैर्विमुक्ताः सुखदुःखसंज्ञैः\nगच्छन्त्यमूढाः पदमव्ययं तत् ॥१५-५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Free from pride and delusion, victorious over attachment, constantly devoted to the Self, freed from desires, and liberated from the dualities of pleasure and pain, the undeluded attain that imperishable state."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अहंकार और मोह से रहित, संगदोष को जीतने वाले, आत्मज्ञान में स्थित, कामनाओं से निवृत्त और सुख-दुःख के द्वंद्व से मुक्त, विवेकी लोग उस अविनाशी पद को प्राप्त करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.6",
+    "chapter": 15,
+    "verse": 6,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न तद्भासयते सूर्यो न शशाङ्को न पावकः ।\nयद्गत्वा न निवर्तन्ते तद्धाम परमं मम ॥१५-६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Neither the sun nor the moon nor fire illumines that abode. Having gone there, one does not return. That is My supreme abode."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जहाँ न सूर्य प्रकाश देता है, न चंद्रमा और न अग्नि। वहाँ जाकर फिर लौटना नहीं होता—वह मेरा परम धाम है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.7",
+    "chapter": 15,
+    "verse": 7,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ममैवांशो जीवलोके जीवभूतः सनातनः ।\nमनःषष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति ॥१५-७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "An eternal fragment of Mine becomes the individual soul in the world of living beings, drawing to itself the six senses, including the mind, from material nature."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यह जीव मेरे ही सनातन अंश हैं, जो प्रकृति में स्थित मन सहित छह इन्द्रियों को धारण करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.8",
+    "chapter": 15,
+    "verse": 8,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "शरीरं यदवाप्नोति यच्चाप्युत्क्रामतीश्वरः ।\nगृहीत्वैतानि संयाति वायुर्गन्धानिवाशयात् ॥१५-८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "When the Lord obtains a body or leaves it, He takes these senses along, just as the wind carries fragrances from their source."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जब जीव शरीर को प्राप्त करता है या छोड़ता है, तब वह इन इन्द्रियों को साथ ले जाता है, जैसे वायु गंध को ले जाती है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.9",
+    "chapter": 15,
+    "verse": 9,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रोत्रं चक्षुः स्पर्शनं च रसनं घ्राणमेव च ।\nअधिष्ठाय मनश्चायं विषयानुपसेवते ॥१५-९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Presiding over the ear, eye, touch, taste, smell, and the mind, the soul experiences sense objects."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कान, आँख, स्पर्श, रसना, घ्राण और मन को अधिष्ठित करके जीव विषयों का अनुभव करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.10",
+    "chapter": 15,
+    "verse": 10,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "उत्क्रामन्तं स्थितं वापि भुञ्जानं वा गुणान्वितम् ।\nविमूढा नानुपश्यन्ति पश्यन्ति ज्ञानचक्षुषः ॥१५-१०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The deluded do not perceive the soul as it departs, dwells in the body, or enjoys sense objects; but those with the eye of knowledge perceive it."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मूढ़ लोग जीव को न तो शरीर छोड़ते हुए, न स्थित रहते हुए और न ही भोग करते हुए देखते हैं; ज्ञानचक्षु वाले उसे देख पाते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.11",
+    "chapter": 15,
+    "verse": 11,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यतन्तो योगिनश्चैनं पश्यन्त्यात्मन्यवस्थितम् ।\nयतन्तोऽप्यकृतात्मानो नैनं पश्यन्त्यचेतसः ॥१५-११॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The striving yogis perceive the Self abiding within themselves, but the unrefined and unintelligent, though striving, do not perceive Him."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यत्नशील योगी आत्मा को अपने भीतर स्थित देखते हैं, परंतु अशुद्ध और अचेतन मन वाले लोग प्रयत्न करने पर भी उसे नहीं देखते।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.12",
+    "chapter": 15,
+    "verse": 12,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यदादित्यगतं तेजो जगद्भासयतेऽखिलम् ।\nयच्चन्द्रमसि यच्चाग्नौ तत्तेजो विद्धि मामकम् ॥१५-१२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The radiance that resides in the sun and illumines the whole world, that which is in the moon and in fire—know that radiance to be Mine."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो तेज सूर्य में स्थित होकर समस्त जगत को प्रकाशित करता है, जो चंद्रमा और अग्नि में है—उस तेज को मेरा ही जानो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.13",
+    "chapter": 15,
+    "verse": 13,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "गामाविश्य च भूतानि धारयाम्यहमोजसा ।\nपुष्णामि चौषधीः सर्वाः सोमो भूत्वा रसात्मकः ॥१५-१३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Entering the earth, I sustain all beings with My energy; becoming the moon, I nourish all plants with vital essence."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं पृथ्वी में प्रवेश करके अपने बल से समस्त प्राणियों को धारण करता हूँ और सोम रूप होकर समस्त औषधियों को पोषित करता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.14",
+    "chapter": 15,
+    "verse": 14,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अहं वैश्वानरो भूत्वा प्राणिनां देहमाश्रितः ।\nप्राणापानसमायुक्तः पचाम्यन्नं चतुर्विधम् ॥१५-१४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Becoming the digestive fire in the bodies of living beings, united with inhalation and exhalation, I digest the four kinds of food."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं वैश्वानर अग्नि बनकर प्राणियों के शरीर में स्थित होकर प्राण और अपान से संयुक्त चार प्रकार के अन्न को पचाता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.15",
+    "chapter": 15,
+    "verse": 15,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सर्वस्य चाहं हृदि सन्निविष्टो\nमत्तः स्मृतिर्ज्ञानमपोहनं च ।\nवेदैश्च सर्वैरहमेव वेद्यो\nवेदान्तकृद्वेदविदेव चाहम् ॥१५-१५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I dwell in the hearts of all; from Me come memory, knowledge, and forgetfulness. By all the Vedas I alone am to be known; I am the author of Vedanta and the knower of the Vedas."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं सभी के हृदय में स्थित हूँ; मुझसे ही स्मृति, ज्ञान और विस्मृति होती है। समस्त वेदों से मुझे ही जानना है; मैं वेदान्त का कर्ता और वेदों का ज्ञाता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.16",
+    "chapter": 15,
+    "verse": 16,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "द्वाविमौ पुरुषौ लोके क्षरश्चाक्षर एव च ।\nक्षरः सर्वाणि भूतानि कूटस्थोऽक्षर उच्यते ॥१५-१६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "There are two kinds of beings in the world—the perishable and the imperishable. All embodied beings are perishable; the unchanging is called imperishable."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस संसार में दो प्रकार के पुरुष हैं—क्षर और अक्षर। सभी भूत क्षर हैं और जो कूटस्थ है वह अक्षर कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.17",
+    "chapter": 15,
+    "verse": 17,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "उत्तमः पुरुषस्त्वन्यः परमात्मेत्युदाहृतः ।\nयो लोकत्रयमाविश्य बिभर्त्यव्यय ईश्वरः ॥१५-१७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "But there is another, the supreme Person, called the Paramatma, who pervades and sustains the three worlds, the imperishable Lord."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "परंतु इन दोनों से भिन्न एक उत्तम पुरुष है, जिसे परमात्मा कहा गया है, जो तीनों लोकों में प्रवेश करके उन्हें धारण करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.18",
+    "chapter": 15,
+    "verse": 18,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यस्मात्क्षरमतीतोऽहमक्षरादपि चोत्तमः ।\nअतोऽस्मि लोके वेदे च प्रथितः पुरुषोत्तमः ॥१५-१८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Since I transcend the perishable and am even higher than the imperishable, I am celebrated in the world and in the Vedas as the Supreme Person."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "क्योंकि मैं क्षर से परे और अक्षर से भी उत्तम हूँ, इसलिए मैं लोक और वेदों में पुरुषोत्तम के नाम से प्रसिद्ध हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.19",
+    "chapter": 15,
+    "verse": 19,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यो मामेवमसम्मूढो जानाति पुरुषोत्तमम् ।\nस सर्वविद्भजति मां सर्वभावेन भारत ॥१५-१९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who knows Me thus, without delusion, as the Supreme Person, knows everything and worships Me with his whole being, O Arjuna."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे भारत! जो बिना मोह के मुझे पुरुषोत्तम रूप में जानता है, वह सब कुछ जानने वाला होकर सम्पूर्ण भाव से मेरी भक्ति करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  },
+  {
+    "id": "15.20",
+    "chapter": 15,
+    "verse": 20,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "इति गुह्यतमं शास्त्रमिदमुक्तं मयानघ ।\nएतद्बुद्ध्वा बुद्धिमान्स्यात्कृतकृत्यश्च भारत ॥१५-२०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Thus, O sinless one, this most secret teaching has been spoken by Me. Knowing this, one becomes wise and has fulfilled all duties, O Arjuna."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे निष्पाप भारत! यह परम गुह्य शास्त्र मैंने कहा है। इसे जानकर मनुष्य बुद्धिमान और कृतकृत्य हो जाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "purushottama_yoga"
+    }
+  }
+]

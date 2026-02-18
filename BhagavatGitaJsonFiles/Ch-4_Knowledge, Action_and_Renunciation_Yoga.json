@@ -1,0 +1,1010 @@
+[
+  {
+    "id": "4.1",
+    "chapter": 4,
+    "verse": 1,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nइमं विवस्वते योगं प्रोक्तवानहमव्ययम् ।\nविवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् ॥४-१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: I taught this imperishable yoga to Vivasvan; Vivasvan taught it to Manu; Manu taught it to Ikshvaku."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—मैंने इस अविनाशी योग को विवस्वान को बताया, विवस्वान ने मनु को और मनु ने इक्ष्वाकु को बताया।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.2",
+    "chapter": 4,
+    "verse": 2,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एवं परम्पराप्राप्तमिमं राजर्षयो विदुः ।\nस कालेनेह महता योगो नष्टः परन्तप ॥४-२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Thus received through succession, the royal sages knew this yoga; but over time it was lost, O Arjuna."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस प्रकार परम्परा से प्राप्त यह योग राजर्षियों ने जाना, परन्तु काल के प्रभाव से यह नष्ट हो गया।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.3",
+    "chapter": 4,
+    "verse": 3,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "स एवायं मया तेऽद्य योगः प्रोक्तः पुरातनः ।\nभक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् ॥४-३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That same ancient yoga I have taught to you today, because you are My devotee and friend."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वही प्राचीन योग आज मैंने तुम्हें बताया, क्योंकि तुम मेरे भक्त और मित्र हो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.4",
+    "chapter": 4,
+    "verse": 4,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अर्जुन उवाच ।\nअपरं भवतो जन्म परं जन्म विवस्वतः ।\nकथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति ॥४-४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Arjuna said: Your birth is recent, but Vivasvan’s birth was ancient. How am I to understand that You taught this yoga in the beginning?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन बोले—आपका जन्म अभी का है और विवस्वान का बहुत प्राचीन; यह मैं कैसे समझूँ कि आपने पहले यह योग बताया?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.5",
+    "chapter": 4,
+    "verse": 5,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nबहूनि मे व्यतीतानि जन्मानि तव चार्जुन ।\nतान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप ॥४-५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Lord said: Many births of Mine and yours have passed; I know them all, but you do not."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—मेरे और तुम्हारे अनेक जन्म हो चुके हैं; मैं उन्हें जानता हूँ, तुम नहीं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.6",
+    "chapter": 4,
+    "verse": 6,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् ।\nप्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया ॥४-६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Though unborn and imperishable, I manifest Myself through My own nature."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अजन्मा और अविनाशी होते हुए भी मैं अपनी प्रकृति से प्रकट होता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.7",
+    "chapter": 4,
+    "verse": 7,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यदा यदा हि धर्मस्य ग्लानिर्भवति भारत ।\nअभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥४-७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Whenever there is decline of righteousness and rise of unrighteousness, I manifest Myself."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जब-जब धर्म की हानि और अधर्म की वृद्धि होती है, तब मैं अवतार लेता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.8",
+    "chapter": 4,
+    "verse": 8,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।\nधर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥४-८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "To protect the righteous, destroy the wicked, and establish dharma, I appear age after age."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "साधुओं की रक्षा, दुष्टों के विनाश और धर्म की स्थापना के लिए मैं युग-युग में प्रकट होता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.9",
+    "chapter": 4,
+    "verse": 9,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वतः ।\nत्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन ॥४-९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who knows the divine nature of My birth and actions is not reborn, but comes to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मेरे जन्म और कर्म को तत्त्व से जानने वाला पुनर्जन्म को प्राप्त नहीं होता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.10",
+    "chapter": 4,
+    "verse": 10,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "वीतरागभयक्रोधा मन्मया मामुपाश्रिताः ।\nबहवो ज्ञानतपसा पूता मद्भावमागताः ॥४-१०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Freed from attachment, fear, and anger, many have attained My being through knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "राग, भय और क्रोध से मुक्त होकर अनेक लोग ज्ञान से मुझे प्राप्त हुए हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.11",
+    "chapter": 4,
+    "verse": 11,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् ।\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥४-११॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "As people surrender unto Me, I reward them accordingly."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मनुष्य जिस भाव से मेरी शरण लेते हैं, मैं उन्हें उसी प्रकार फल देता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.12",
+    "chapter": 4,
+    "verse": 12,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "काङ्क्षन्तः कर्मणां सिद्धिं यजन्त इह देवताः ।\nक्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा ॥४-१२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those desiring success in action worship the gods; success comes quickly."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कर्मफल की इच्छा वाले लोग देवताओं की पूजा करते हैं और शीघ्र फल पाते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.13",
+    "chapter": 4,
+    "verse": 13,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागशः ।\nतस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् ॥४-१३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The fourfold order was created by Me according to qualities and actions, though I am the non-doer."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "चार वर्ण मैंने गुण और कर्म के अनुसार बनाए, फिर भी मैं अकर्ता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.14",
+    "chapter": 4,
+    "verse": 14,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा ।\nइति मां योऽभिजानाति कर्मभिर्न स बध्यते ॥४-१४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Actions do not bind Me; knowing this, one is not bound by actions."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कर्म मुझे नहीं बाँधते; ऐसा जानने वाला कर्मबंधन से मुक्त रहता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.15",
+    "chapter": 4,
+    "verse": 15,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभिः ।\nकुरु कर्मैव तस्मात्त्वं पूर्वैः पूर्वतरं कृतम् ॥४-१५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Knowing this, the ancients performed action; therefore perform action."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस ज्ञान को जानकर प्राचीन मुमुक्षुओं ने कर्म किया, इसलिए तुम भी कर्म करो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.16",
+    "chapter": 4,
+    "verse": 16,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिताः ।\nतत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् ॥४-१६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "What is action and what is inaction—even sages are confused. I shall explain it."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कर्म और अकर्म क्या है—इसमें ज्ञानी भी मोहित होते हैं; मैं तुम्हें बताऊँगा।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.17",
+    "chapter": 4,
+    "verse": 17,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः ।\nअकर्मणश्च बोद्धव्यं गहना कर्मणो गतिः ॥४-१७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "One must understand action, forbidden action, and inaction; the path of action is profound."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कर्म, विकर्म और अकर्म—तीनों को समझना चाहिए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.18",
+    "chapter": 4,
+    "verse": 18,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कर्मण्यकर्म यः पश्येदकर्मणि च कर्म यः ।\nस बुद्धिमान्मनुष्येषु स युक्तः कृत्स्नकर्मकृत् ॥४-१८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who sees inaction in action and action in inaction is wise."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कर्म में अकर्म और अकर्म में कर्म देखता है, वही बुद्धिमान है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.19",
+    "chapter": 4,
+    "verse": 19,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यस्य सर्वे समारम्भाः कामसङ्कल्पवर्जिताः ।\nज्ञानाग्निदग्धकर्माणं तमाहुः पण्डितं बुधाः ॥४-१९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He whose actions are free from desire and burnt by knowledge is called wise."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिसके कर्म कामना रहित और ज्ञान से दग्ध हैं, वह पण्डित कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.20",
+    "chapter": 4,
+    "verse": 20,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "त्यक्त्वा कर्मफलासङ्गं नित्यतृप्तो निराश्रयः ।\nकर्मण्यभिप्रवृत्तोऽपि नैव किञ्चित्करोति सः ॥४-२०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Abandoning attachment to results, though engaged in action, he does nothing."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कर्मफल त्यागकर कर्म करते हुए भी वह कुछ नहीं करता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.21",
+    "chapter": 4,
+    "verse": 21,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "निराशीर्यतचित्तात्मा त्यक्तसर्वपरिग्रहः ।\nशारीरं केवलं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥४-२१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Without expectation, controlling mind and body, performing mere bodily action, he incurs no sin."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "निराश, संयमी और संग्रह त्यागकर केवल शारीरिक कर्म करने वाला पाप को प्राप्त नहीं होता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.22",
+    "chapter": 4,
+    "verse": 22,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यदृच्छालाभसन्तुष्टो द्वन्द्वातीतो विमत्सरः ।\nसमः सिद्धावसिद्धौ च कृत्वापि न निबध्यते ॥४-२२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Content with whatever comes by chance, free from duality and envy, balanced in success and failure, he is not bound though he acts."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो अपने आप प्राप्त होने वाले लाभ से संतुष्ट, द्वन्द्वों से परे, ईर्ष्यारहित तथा सिद्धि-असिद्धि में सम रहता है, वह कर्म करके भी बंधता नहीं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.23",
+    "chapter": 4,
+    "verse": 23,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "गतसङ्गस्य मुक्तस्य ज्ञानावस्थितचेतसः ।\nयज्ञायाचरतः कर्म समग्रं प्रविलीयते ॥४-२३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "For one who is free from attachment, liberated, and established in knowledge, actions performed as sacrifice dissolve completely."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "आसक्ति से रहित, मुक्त और ज्ञान में स्थित पुरुष के यज्ञार्थ किए गए कर्म पूर्णतः नष्ट हो जाते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.24",
+    "chapter": 4,
+    "verse": 24,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ब्रह्मार्पणं ब्रह्म हविर्ब्रह्माग्नौ ब्रह्मणा हुतम् ।\nब्रह्मैव तेन गन्तव्यं ब्रह्मकर्मसमाधिना ॥४-२४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The offering is Brahman, the oblation is Brahman, offered by Brahman into the fire of Brahman; Brahman alone is attained."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्पण ब्रह्म है, हवन सामग्री ब्रह्म है, ब्रह्म द्वारा ब्रह्माग्नि में आहुति दी जाती है; ऐसे ब्रह्मकर्म में स्थित व्यक्ति ब्रह्म को ही प्राप्त करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.25",
+    "chapter": 4,
+    "verse": 25,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "दैवमेवापरे यज्ञं योगिनः पर्युपासते ।\nब्रह्माग्नावपरे यज्ञं यज्ञेनैवोपजुह्वति ॥४-२५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Some yogis worship the gods, while others offer sacrifice into the fire of Brahman."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कुछ योगी देवताओं के यज्ञ की उपासना करते हैं और कुछ ब्रह्माग्नि में यज्ञ द्वारा यज्ञ अर्पित करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.26",
+    "chapter": 4,
+    "verse": 26,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रोत्रादीनीन्द्रियाण्यन्ये संयमाग्निषु जुह्वति ।\nशब्दादीन्विषयानन्य इन्द्रियाग्निषु जुह्वति ॥४-२६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Some offer the senses into the fire of restraint; others offer sense objects into the fire of the senses."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कुछ लोग इन्द्रियों को संयमाग्नि में अर्पित करते हैं और कुछ विषयों को इन्द्रियाग्नि में अर्पित करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.27",
+    "chapter": 4,
+    "verse": 27,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सर्वाणीन्द्रियकर्माणि प्राणकर्माणि चापरे ।\nआत्मसंयमयोगाग्नौ जुह्वति ज्ञानदीपिते ॥४-२७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Others offer all actions of the senses and breath into the fire of self-control kindled by knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कुछ लोग ज्ञान से प्रज्वलित आत्मसंयम योगाग्नि में इन्द्रिय और प्राणों के कर्मों की आहुति देते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.28",
+    "chapter": 4,
+    "verse": 28,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "द्रव्ययज्ञास्तपोयज्ञा योगयज्ञास्तथापरे ।\nस्वाध्यायज्ञानयज्ञाश्च यतयः संशितव्रताः ॥४-२८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Others perform sacrifice with wealth, austerity, yoga, study, and knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कुछ द्रव्ययज्ञ, तपोयज्ञ, योगयज्ञ तथा स्वाध्याय और ज्ञानयज्ञ करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.29",
+    "chapter": 4,
+    "verse": 29,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे ।\nप्राणापानगती रुद्ध्वा प्राणायामपरायणाः ॥४-२९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Some offer inhalation into exhalation and exhalation into inhalation, practicing breath control."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कुछ लोग प्राण को अपान में और अपान को प्राण में अर्पित करते हुए प्राणायाम करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.30",
+    "chapter": 4,
+    "verse": 30,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अपरे नियताहाराः प्राणान्प्राणेषु जुह्वति ।\nसर्वेऽप्येኛयज्ञविदो यज्ञक्षपितकल्मषाः ॥४-३०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Others regulate food and offer life-breath into life-breath; all these knowers of sacrifice are purified of sins."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अन्य लोग नियत आहार लेकर प्राणों को प्राणों में अर्पित करते हैं; ये सभी यज्ञज्ञाता पापों से मुक्त हो जाते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.31",
+    "chapter": 4,
+    "verse": 31,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यज्ञशिष्टामृतभुजो यान्ति ब्रह्म सनातनम् ।\nनायं लोकोऽस्त्ययज्ञस्य कुतोऽन्यः कुरुसत्तम ॥४-३१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those who partake of the nectar of sacrifice go to eternal Brahman; this world is not for the non-sacrificer."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यज्ञ से शेष अमृत को भोगने वाले सनातन ब्रह्म को प्राप्त होते हैं; यज्ञ न करने वाले के लिए यह लोक भी नहीं है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.32",
+    "chapter": 4,
+    "verse": 32,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे ।\nकर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे ॥४-३२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Thus many kinds of sacrifice are spread from Brahman; knowing them as born of action, you shall be freed."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस प्रकार अनेक यज्ञ ब्रह्म से उत्पन्न बताए गए हैं; उन्हें जानकर तुम मुक्त हो जाओगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.33",
+    "chapter": 4,
+    "verse": 33,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रेयान्द्रव्यमयाद्यज्ञाज्ज्ञानयज्ञः परन्तप ।\nसर्वं कर्माखिलं पार्थ ज्ञाने परिसमाप्यते ॥४-३३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The sacrifice of knowledge is superior to material sacrifice; all actions culminate in knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे परन्तप! द्रव्ययज्ञ से ज्ञानयज्ञ श्रेष्ठ है; सभी कर्म ज्ञान में समाप्त होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.34",
+    "chapter": 4,
+    "verse": 34,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तद्विद्धि प्रणिपातेन परिप्रश्नेन सेवया ।\nउपदेक्ष्यन्ति ते ज्ञानं ज्ञानिनस्तत्त्वदर्शिनः ॥४-३४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Know that by prostration, inquiry, and service; the wise will instruct you in knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "प्रणाम, प्रश्न और सेवा द्वारा ज्ञान को जानो; तत्त्वदर्शी ज्ञानी तुम्हें उपदेश देंगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.35",
+    "chapter": 4,
+    "verse": 35,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यज्ज्ञात्वा न पुनर्मोहमेवं यास्यसि पाण्डव ।\nयेन भूतान्यशेषेण द्रक्ष्यस्यात्मन्यथो मयि ॥४-३५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Knowing this, you shall not again fall into delusion and will see all beings in the Self and in Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस ज्ञान से तुम फिर मोह को प्राप्त नहीं होगे और सभी भूतों को आत्मा और मुझमें देखोगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.36",
+    "chapter": 4,
+    "verse": 36,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अपि चेदसि पापेभ्यः सर्वेभ्यः पापकृत्तमः ।\nसर्वं ज्ञानप्लवेनैव वृजिनं सन्तरिष्यसि ॥४-३६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Even if you are the greatest sinner, you shall cross all sin by the boat of knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यदि तुम सबसे बड़े पापी भी हो, तो भी ज्ञानरूपी नौका से सब पापों को पार कर जाओगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.37",
+    "chapter": 4,
+    "verse": 37,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यथैधांसि समिद्धोऽग्निर्भस्मसात्कुरुतेऽर्जुन ।\nज्ञानाग्निः सर्वकर्माणि भस्मसात्कुरुते तथा ॥४-३७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "As fire reduces fuel to ashes, knowledge burns all actions."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जैसे अग्नि ईंधन को भस्म कर देती है, वैसे ही ज्ञान सभी कर्मों को भस्म कर देता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.38",
+    "chapter": 4,
+    "verse": 38,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न हि ज्ञानेन सदृशं पवित्रमिह विद्यते ।\nतत्स्वयं योगसंसिद्धः कालेनात्मनि विन्दति ॥४-३८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "There is nothing as purifying as knowledge; one realizes it in time through yoga."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "ज्ञान के समान पवित्र कुछ नहीं; योगसिद्धि से समय पर आत्मा में इसे प्राप्त किया जाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.39",
+    "chapter": 4,
+    "verse": 39,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रद्धावाँल्लभते ज्ञानं तत्परः संयतेन्द्रियः ।\nज्ञानं लब्ध्वा परां शान्तिमचिरेणाधिगच्छति ॥४-३९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The faithful, devoted, and self-controlled attains knowledge and supreme peace."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रद्धावान, संयमी और तत्पर व्यक्ति ज्ञान प्राप्त कर शीघ्र परम शान्ति को पाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.40",
+    "chapter": 4,
+    "verse": 40,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अज्ञश्चाश्रद्दधानश्च संशयात्मा विनश्यति ।\nनायं लोकोऽस्ति न परो न सुखं संशयात्मनः ॥४-४०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The ignorant, faithless, and doubting soul is ruined; he has neither this world nor the next."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अज्ञानी, अश्रद्धालु और संशयी मनुष्य का नाश होता है; उसके लिए न यह लोक है न परलोक।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.41",
+    "chapter": 4,
+    "verse": 41,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "योगसन्न्यस्तकर्माणं ज्ञानसञ्छिन्नसंशयम् ।\nआत्मवन्तं न कर्माणि निबध्नन्ति धनञ्जय ॥४-४१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Actions do not bind one who has renounced actions through yoga and cut doubts by knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "योग द्वारा कर्मत्याग और ज्ञान से संशय नष्ट करने वाले आत्मज्ञानी को कर्म नहीं बाँधते।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "4.42",
+    "chapter": 4,
+    "verse": 42,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तस्मादज्ञानसम्भूतं हृत्स्थं ज्ञानासिनात्मनः ।\nछित्त्वैनं संशयं योगमातिष्ठोत्तिष्ठ भारत ॥४-४२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Therefore, cut this doubt born of ignorance with the sword of knowledge and arise, O Bharata."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इसलिए हृदय में स्थित अज्ञानजन्य संशय को ज्ञानरूपी तलवार से काटकर योग में स्थित हो और उठ खड़े हो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "jnana_karma_sannyasa_yoga"
+    }
+  }
+]

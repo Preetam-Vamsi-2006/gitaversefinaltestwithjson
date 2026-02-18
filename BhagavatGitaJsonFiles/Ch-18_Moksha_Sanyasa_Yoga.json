@@ -1,0 +1,1880 @@
+[
+  {
+    "id": "18.1",
+    "chapter": 18,
+    "verse": 1,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम् । त्यागस्य च हृषीकेश पृथक्केशिनिषूदन ॥१८-१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Arjuna said: O mighty-armed Hrishikesa, I wish to know the true nature of renunciation (sannyāsa) and relinquishment (tyāga) separately, O Slayer of Kesi." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन बोले- हे महाबाहो हृषीकेश! हे केशीनिषूदन! मैं संन्यास और त्याग के तत्त्व को अलग-अलग जानना चाहता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "bhagavadgita.com",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.2",
+    "chapter": 18,
+    "verse": 2,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः ।\nसर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः ॥१८-२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The sages understand sannyāsa to be the abandonment of actions driven by desire; the wise declare tyāga to be the relinquishment of all the fruits of actions." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कवियों के अनुसार संन्यास वह है जिसमें इच्छाओं से प्रेरित कर्मों का त्याग किया जाता है; विद्वान कहते हैं कि त्याग वह है जिसमें कर्मों के फल का परित्याग किया जाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "bhagavadgita.com",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.3",
+    "chapter": 18,
+    "verse": 3,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "त्याज्यम् दोषवत् कर्मणः सङ्गं त्यक्त्वा फलकल्मषान् |\nदम्भार्भकृतां कृच्छ्रार्थं क्षात्रं समः पाण्डव ॥१८-३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Some say that harmful acts should be abandoned like faults; giving up attachments and impure results, and performing duties equably is proper." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कुछ कहते हैं कि दोषयुक्त कर्मों को फल के साथ त्याग देना चाहिए; आसक्ति और अशुद्ध कर्मों के परिणामों का त्याग करते हुए कर्तव्यों को समभाव से करना चाहिए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "bhagavadgita.com",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.4",
+    "chapter": 18,
+    "verse": 4,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "शास्त्रविधिर्निरपेक्षं च यज्ञदानतपोऽपनिषद् |\nकर्मणो ह्यपि दानार्थं स त्यागः कथितः कथम् ॥१८-४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "How can that be called tyāga which is without regard for scriptural injunctions, like charity, sacrifice, or penance?" 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वेदशास्त्रों के निर्देश का पालन न करके किए गए कर्म, जैसे दान, यज्ञ, तप आदि, कैसे त्याग कहलाए?" 
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "bhagavadgita.com",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.5",
+    "chapter": 18,
+    "verse": 5,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते |\nन च संन्यासं कर्तव्यं कर्म त्यागोऽपि च शरीरिणाम् ॥१८-५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "One does not attain freedom from work by merely abstaining from actions, nor is non-performance ever possible; nor is renunciation appropriate for embodied beings." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "केवल कर्मों को शुरू न करके कोई व्यक्ति कर्म-त्याग नहीं पा सकता, न ही कर्म का निष्क्रिय रहना संभव है; शरीरधारी लोगों के लिए संन्यास भी उपयुक्त नहीं है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "bhagavadgita.com",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.6",
+    "chapter": 18,
+    "verse": 6,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः |\nअकर्मणि च बोद्धव्यं गोचरमिति च spectators\nकर्म ॥१८-६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "It is necessary to understand what action is, what wrong action is, and what non-action is." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हमें यह समझना आवश्यक है कि कर्म क्या है, विकर्म क्या है, और अकर्म क्या है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "bhagavadgita.com",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.7",
+    "chapter": 18,
+    "verse": 7,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यस्मात्क्षेत्रगतं प्रकृतिस्तस्मात् कर्म समाहितम् |\nप्रकृतिं यस्य कर्म योगं यत्तदेति चिन्तितम् ॥१८-७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That action is considered yoga which is done according to the qualities of nature that are inherent in the body." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिस कर्म को प्रकृति की गुणों के अनुसार और शरीर की स्वाभाविक क्षमता के अनुरूप किया जाता है, वही कर्म योग के रूप में माना जाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "bhagavadgita.com",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.8",
+    "chapter": 18,
+    "verse": 8,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "दुःखमित्येव यत्कर्म कायक्लेशभयात् त्यजेत् |\nस कृत्वा राजसं त्यागं नैव त्यागफलं लभेत् ॥१८-८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Whatsoever work one gives up because it is painful and causes bodily suffering is declared by the scriptures to be rajasic abandonment, and does not yield the fruit of renunciation." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कर्म दर्द या शारीरिक क्लेश के कारण त्याग दिया जाता है, वह राजस प्रकार का त्याग कहलाता है और उसके फल की प्राप्ति नहीं होती।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "bhagavadgita.com",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.9",
+    "chapter": 18,
+    "verse": 9,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यदात्मानं मनसा बुद्ध्या केवलैः कर्मभिः संयमत |\nस वै सन्न्यासः सात्त्विको नियतमानन्दभावः ॥१८-९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That renunciation which is accomplished by the mind, intelligence, and body for the sake of duty alone, with an equipoised mind, is declared by the scriptures to be sattvic." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो संन्यास मन, बुद्धि और कर्मों से केवल कत्र्तव्य के लिए संयमपूर्वक किया जाता है, वह सात्विक कहा जाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "bhagavadgita.com",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.10",
+    "chapter": 18,
+    "verse": 10,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यावन्मनसा संन्यस्तोऽसि मनो लयमेव ते ||१८-१०||"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That renunciation which arises merely from mental confusion and gives up all sense of duty is tamasic renunciation." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो संन्यास केवल मन की उलझन और भ्रम से उत्पन्न होता है और कर्तव्य की भावना को त्याग देता है, वह तामस संन्यास है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "bhagavadgita.com",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.11",
+    "chapter": 18,
+    "verse": 11,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः ।\nयस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते ॥१८-११॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "For the embodied one it is not possible to abandon all actions entirely; but he who relinquishes the fruits of actions — he is called a true renouncer (tyāgī)." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "देहधारी व्यक्ति के लिए सभी कर्मों का पूर्ण रूप से त्याग करना संभव नहीं है; किन्तु जो कर्मों के फलों का त्याग करता है वही सच्चा त्यागी कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "shlokam.org / Holy-Bhagavad-Gita.org",
+      "source_translation": "Holy-Bhagavad-Gita.org",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.12",
+    "chapter": 18,
+    "verse": 12,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम् ।\nभवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित् ॥१८-१२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "For those who do not renounce the fruits of action, the results after death are threefold — undesirable, desirable or mixed; but for the renouncer (one who relinquishes the fruits), none of these occur." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कर्मों के फलों का त्याग नहीं करते, उनके कर्मों के फल मरने के बाद भी तीन प्रकार के — अच्छा, बुरा या मिश्रित — होते हैं; परन्तु जो कर्मफल का त्याग कर देते हैं, उनके लिए ऐसा कभी नहीं होता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "shlokam.org / Holy-Bhagavad-Gita.org",
+      "source_translation": "Holy-Bhagavad-Gita.org",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.13",
+    "chapter": 18,
+    "verse": 13,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "पञ्चैतानि महाबाहो कारणानि निबोध मे ।\nसांख्ये कृतान्ते प्रोक्ता सिद्धये सर्वकर्मणाम् ॥१८-१३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "O mighty-armed Arjuna, understand these five causes that are declared in the Sankhya doctrine as the means for the accomplishment of all actions." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे महाबाहो अर्जुन! संख्यादर्श के अनुसार जिन पाँच कारणों से सभी कर्मों की सिद्धि होती है, उन्हें तू भली-भाँति जान।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Holy-Bhagavad-Gita.org",
+      "source_translation": "Holy-Bhagavad-Gita.org",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.14",
+    "chapter": 18,
+    "verse": 14,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधान् ।\nविविधाश्चेष्टा दैवं चैवात्र पञ्चमम् ॥१८-१४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The place of action (body), the doer (self), the various instruments and efforts, and also the divine factor — these are the five causes of action." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कर्म का स्थान (शरीर), कर्ता (आत्मा), अलग-अलग साधन और प्रयास, और यहाँ पर दैव (ईश्वरीय तत्व) — ये पाँच ही कारण हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Holy-Bhagavad-Gita.org",
+      "source_translation": "Holy-Bhagavad-Gita.org",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.15",
+    "chapter": 18,
+    "verse": 15,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "शरीरवाञ् मनोभिर्यत्कर्म प्ररभते नरः ।\nन्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः ॥१८-१५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Whatever action is begun by a person with body, speech or mind, whether it be right or wrong, these five are its causes." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कोई भी कर्म मनुष्य शरीर, वाणी या मन से प्रारंभ करता है, चाहे वह शुभ हो या अशुभ, उसके ये पाँच कारण कारण हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Holy-Bhagavad-Gita.org",
+      "source_translation": "Holy-Bhagavad-Gita.org",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.16",
+    "chapter": 18,
+    "verse": 16,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तद्भवनाय न कौन्तेय निष्ठा विहाय संसारम् ।\nमुक्तः सर्वबन्धबन्धनोऽपि च कर्मणि ॥१८-१६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That renunciation by which a person gives up all worldly attachments, and is freed from all bonds of action — that is true renunciation." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिस त्याग द्वारा कोई व्यक्ति संसार की सभी आसक्तियों को त्याग देता है और कर्मों के बंधनों से मुक्त हो जाता है — वही सच्चा त्याग है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Holy-Bhagavad-Gita.org",
+      "source_translation": "Holy-Bhagavad-Gita.org",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.17",
+    "chapter": 18,
+    "verse": 17,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यस्तु संन्यासं गत्वा कृत्स्नकर्मकृत् संसयम् ।\nबन्धं कर्म समागतं स बुद्धिमान् मन्यते सन्यसी ॥१८-१७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "But he who takes formal renunciation with doubt about discharging all duties, and remains entangled in the bondage of action — such a person is considered a renunciant in name only." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "परन्तु जो व्यक्ति केवल संन्यास की रूपरेखा ग्रहण करता है, परन्तु कर्मों का संपूर्ण निर्वाह नहीं छोड़ता और कर्मों के बंधन में रहता है — वह बुद्धिमान व्यक्ति भी केवल नाम का सन्न्यासी ही माना जाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Holy-Bhagavad-Gita.org",
+      "source_translation": "Holy-Bhagavad-Gita.org",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.18",
+    "chapter": 18,
+    "verse": 18,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "शरीरवृत्ते विविक्तसेवी गुणयुक्तो मनुष्यः ।\nवैराग्येण च धृतात्मा विशुद्धबुद्धिरुपैति सः ॥१८-१८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who lives in a secluded place, whose activities are controlled by the modes of nature, who is free from attachments and whose intellect is pure — such a person attains supreme wisdom." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वह व्यक्ति जो एकांत में वास करता है, जिसके कर्म प्रकृति के गुणों से नियंत्रित हैं, जो आसक्ति से मुक्त है और जिसकी बुद्धि शुद्ध है — वही श्रेष्ठ बुद्धि को प्राप्त होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Holy-Bhagavad-Gita.org",
+      "source_translation": "Holy-Bhagavad-Gita.org",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.19",
+    "chapter": 18,
+    "verse": 19,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यः सर्वत्रानभिस्नेहः कर्ता कर्म सुविचिक्षितः ।\nनिःस्पृहः सर्वकामेभ्यो समत्वबुद्धिरुच्यते ॥१८-१९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who does not cling to anything anywhere, who performs his actions without desire, and who has an equal mind toward all goals — that is called equanimity of mind." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो किसी वस्तु से कहीं भी आसक्त नहीं होता, जो बिना इच्छा के अपने कर्म करता है और जिसके लिए सभी लक्ष्यों के प्रति समभाव का मन है — वही समत्व बुद्धि कहलाती है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Holy-Bhagavad-Gita.org",
+      "source_translation": "Holy-Bhagavad-Gita.org",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.20",
+    "chapter": 18,
+    "verse": 20,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न जायते म्रियते वा कश्चिद्यज्ज्येื่อนमभ्युदय मेघा सः ॥१८-२०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "One who is alike in honor and dishonor, heat and cold, joy and sorrow, fame and disgrace, is fit for immortality." 
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो मनुष्य सम्मान और अपमान, उष्णता और शीतलता, सुख और दुख, प्रसिद्धि और अपयश में समान रहता है — वह अमरता के योग्य है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Holy-Bhagavad-Gita.org",
+      "source_translation": "Holy-Bhagavad-Gita.org",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.21",
+    "chapter": 18,
+    "verse": 21,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान् ।\nवेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम् ॥१८-२१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That knowledge by which one sees different entities as separate and independent in all beings is known to be rajasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिस ज्ञान के द्वारा मनुष्य सभी प्राणियों में भिन्न-भिन्न प्रकार के अलग-अलग भावों को देखता है, वह राजस ज्ञान कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.22",
+    "chapter": 18,
+    "verse": 22,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम् ।\nअतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम् ॥१८-२२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That knowledge which clings to one effect as if it were the whole, without reason and without understanding the truth, is declared to be tamasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो ज्ञान बिना कारण और तत्त्व को न समझते हुए किसी एक कार्य को ही सब कुछ मान लेता है, वह तामस ज्ञान कहा गया है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.23",
+    "chapter": 18,
+    "verse": 23,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "नियतं सङ्गरहितमरागद्वेषतः कृतम् ।\nअफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते ॥१८-२३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That action which is prescribed, performed without attachment, without love or hatred, and without desire for results, is called sattvic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कर्म आसक्ति, राग-द्वेष और फल की इच्छा के बिना किया जाता है, वही सात्त्विक कर्म कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.24",
+    "chapter": 18,
+    "verse": 24,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः ।\nक्रियते बहुलायासं तद्राजसमुदाहृतम् ॥१८-२४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "But that action which is performed with desire for results, or with ego, and with great effort, is called rajasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कर्म फल की इच्छा या अहंकार के साथ और अधिक परिश्रम से किया जाता है, वह राजस कर्म कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.25",
+    "chapter": 18,
+    "verse": 25,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम् ।\nमोहादारभ्यते कर्म यत्तत्तामसमुच्यते ॥१८-२५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That action which is undertaken through delusion, without considering consequences, loss, injury, or one’s own ability, is called tamasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कर्म परिणाम, हानि, हिंसा और अपनी शक्ति पर विचार किए बिना मोहवश किया जाता है, वह तामस कर्म कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.26",
+    "chapter": 18,
+    "verse": 26,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः ।\nसिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते ॥१८-२६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "One who is free from attachment, ego-less, endowed with firmness and enthusiasm, and unaffected by success or failure, is called a sattvic doer."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कर्ता आसक्ति से रहित, अहंकार-रहित, धैर्य और उत्साह से युक्त तथा सिद्धि-असिद्धि में समान रहता है, वह सात्त्विक कर्ता कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.27",
+    "chapter": 18,
+    "verse": 27,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः ।\nहर्षशोकान्वितः कर्ता राजसः परिकीर्तितः ॥१८-२७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The doer who is attached, desires the fruits of actions, is greedy, violent, impure, and moved by joy and sorrow, is called rajasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कर्ता आसक्त, फल-इच्छुक, लोभी, हिंसक, अशुद्ध तथा हर्ष-शोक से युक्त होता है, वह राजस कर्ता कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.28",
+    "chapter": 18,
+    "verse": 28,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः ।\nविषादी दीर्घसूत्री च कर्ता तामस उच्यते ॥१८-२८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The doer who is undisciplined, vulgar, stubborn, deceitful, lazy, despondent, and procrastinating is called tamasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कर्ता असंयमी, मूर्ख, हठी, कपटी, आलसी, विषादी और टालमटोल करने वाला होता है, वह तामस कर्ता कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.29",
+    "chapter": 18,
+    "verse": 29,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु ।\nप्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय ॥१८-२९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Hear now, O Arjuna, the threefold division of intellect and determination, according to the modes of nature, as I explain them fully and separately."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे धनञ्जय! अब तुम गुणों के अनुसार बुद्धि और धृति के तीन प्रकार के भेद को विस्तार से सुनो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.30",
+    "chapter": 18,
+    "verse": 30,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये ।\nबन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी ॥१८-३०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That intellect which understands what ought to be done and what ought not to be done, fear and fearlessness, bondage and liberation — that intellect is sattvic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! जो बुद्धि कर्तव्य-अकर्तव्य, भय-अभय तथा बंधन-मोक्ष को ठीक-ठीक समझती है, वह सात्त्विक बुद्धि कहलाती है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.31",
+    "chapter": 18,
+    "verse": 31,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च ।\nअयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी ॥१८-३१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That intellect which wrongly understands righteousness and unrighteousness, and what ought to be done and what ought not to be done, is rajasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! जो बुद्धि धर्म और अधर्म, कर्तव्य और अकर्तव्य को ठीक प्रकार से नहीं समझती, वह राजसी बुद्धि कहलाती है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.32",
+    "chapter": 18,
+    "verse": 32,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अधर्मं धर्ममिति या मन्यते तमसावृता ।\nसर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी ॥१८-३२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That intellect, O Arjuna, which is enveloped in darkness, regards adharma as dharma and sees all things pervertedly, is tamasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! जो बुद्धि अज्ञान से ढकी हुई अधर्म को ही धर्म मानती है और सब बातों को उलटा समझती है, वह तामसी बुद्धि कहलाती है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.33",
+    "chapter": 18,
+    "verse": 33,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः ।\nयोगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी ॥१८-३३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That unwavering determination by which one controls the functions of the mind, life-force, and senses through yoga is sattvic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! जिस अविचल धृति से योग द्वारा मन, प्राण और इन्द्रियों की क्रियाओं को धारण किया जाता है, वह सात्त्विक धृति है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.34",
+    "chapter": 18,
+    "verse": 34,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन ।\nप्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी ॥१८-३४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "But that determination by which one holds fast to duty, pleasure, and wealth with attachment and desire for rewards is rajasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! जिस धृति से मनुष्य आसक्ति और फल की इच्छा के साथ धर्म, काम और अर्थ को धारण करता है, वह राजसी धृति कहलाती है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.35",
+    "chapter": 18,
+    "verse": 35,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यया स्वप्नं भयं शोकं विषादं मदमेव च ।\nन विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी ॥१८-३५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That determination by which a foolish person does not give up sleep, fear, grief, despondency, and intoxication is tamasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! जिस धृति से मूर्ख मनुष्य नींद, भय, शोक, विषाद और मद को नहीं छोड़ता, वह तामसी धृति कहलाती है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.36",
+    "chapter": 18,
+    "verse": 36,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ ।\nअभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति ॥१८-३६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Now hear from Me, O best of the Bharatas, of the three kinds of happiness, in which one rejoices by practice and which leads to the end of sorrow."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे भरतश्रेष्ठ! अब तुम मुझसे सुख के तीन प्रकारों को सुनो, जिनका अभ्यास करने से मनुष्य आनंद पाता है और दुःख का अंत होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.37",
+    "chapter": 18,
+    "verse": 37,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम् ।\nतत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम् ॥१८-३७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That happiness which is like poison at first but like nectar in the end, arising from the purity of one’s intellect, is declared sattvic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो सुख प्रारंभ में विष के समान और अंत में अमृत के समान होता है तथा आत्मबुद्धि की शुद्धि से उत्पन्न होता है, वह सात्त्विक सुख कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.38",
+    "chapter": 18,
+    "verse": 38,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम् ।\nपरिणामे विषमिव तत्सुखं राजसं स्मृतम् ॥१८-३८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That happiness which arises from the contact of the senses with their objects, which is like nectar at first but poison in the end, is considered rajasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो सुख इन्द्रियों और विषयों के संयोग से उत्पन्न होता है, जो प्रारंभ में अमृत के समान और अंत में विष के समान होता है, वह राजसी सुख कहा गया है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.39",
+    "chapter": 18,
+    "verse": 39,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः ।\nनिद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम् ॥१८-३९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That happiness which deludes the self both at first and in the end, arising from sleep, laziness, and negligence, is called tamasic."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो सुख प्रारंभ और अंत दोनों में आत्मा को मोहित करता है तथा नींद, आलस्य और प्रमाद से उत्पन्न होता है, वह तामसी सुख कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.40",
+    "chapter": 18,
+    "verse": 40,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः ।\nसत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः ॥१८-४०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "There is no being on earth or in heaven among the gods that is free from these three qualities born of nature."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "पृथ्वी पर, स्वर्ग में या देवताओं में भी कोई ऐसा प्राणी नहीं है जो प्रकृति से उत्पन्न इन तीन गुणों से मुक्त हो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.41",
+    "chapter": 18,
+    "verse": 41,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप ।\nकर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः ॥१८-४१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The duties of Brahmins, Kshatriyas, Vaishyas and Shudras, O Arjuna, are divided according to the qualities born of their own nature."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे परंतप! ब्राह्मण, क्षत्रिय, वैश्य और शूद्रों के कर्म उनके स्वभाव से उत्पन्न गुणों के अनुसार विभाजित किए गए हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.42",
+    "chapter": 18,
+    "verse": 42,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च ।\nज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम् ॥१८-४२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Serenity, self-control, austerity, purity, forgiveness, uprightness, knowledge, wisdom, and faith are the natural duties of the Brahmins."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "शांति, आत्मसंयम, तप, शुद्धता, क्षमा, सरलता, ज्ञान, विज्ञान और आस्तिकता—ये ब्राह्मणों के स्वभावजन्य कर्म हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.43",
+    "chapter": 18,
+    "verse": 43,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम् ।\nदानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम् ॥१८-४३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Valor, strength, firmness, dexterity, not fleeing from battle, generosity and leadership are the natural duties of the Kshatriyas."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वीरता, तेज, धैर्य, दक्षता, युद्ध से न भागना, दान और नेतृत्व—ये क्षत्रियों के स्वभावजन्य कर्म हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.44",
+    "chapter": 18,
+    "verse": 44,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम् ।\nपरिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम् ॥१८-४४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Agriculture, cattle-rearing and trade are the natural duties of the Vaishyas; service is the natural duty of the Shudras."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कृषि, गौ-रक्षा और व्यापार वैश्य के स्वभावजन्य कर्म हैं तथा सेवा-कार्य शूद्र का स्वभावजन्य कर्म है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.45",
+    "chapter": 18,
+    "verse": 45,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः ।\nस्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु ॥१८-४५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "By being devoted to one’s own duty, a person attains perfection. Hear how one devoted to his own work attains success."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मनुष्य अपने-अपने कर्म में लगे रहकर सिद्धि प्राप्त करता है। अपने कर्म में रत होकर सिद्धि कैसे मिलती है, वह सुनो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.46",
+    "chapter": 18,
+    "verse": 46,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम् ।\nस्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः ॥१८-४६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "A person attains perfection by worshipping Him from whom all beings originate and by whom all this is pervaded, through the performance of his own duty."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिस परमात्मा से सभी प्राणियों की उत्पत्ति हुई है और जिससे यह सारा जगत व्याप्त है, उसकी अपने कर्म द्वारा पूजा करके मनुष्य सिद्धि प्राप्त करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.47",
+    "chapter": 18,
+    "verse": 47,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\nस्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम् ॥१८-४७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Better is one’s own duty, though imperfect, than another’s duty well performed. By performing the duty prescribed by one’s nature, one incurs no sin."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अपने स्वभाव से नियत कर्म, भले ही गुणहीन हो, दूसरे के कर्म से श्रेष्ठ है। अपने स्वधर्म का पालन करने से पाप नहीं लगता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.48",
+    "chapter": 18,
+    "verse": 48,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत् ।\nसर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः ॥१८-४८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "One should not abandon the work born of one’s nature, even if it is defective; all undertakings are enveloped by defects, as fire is covered by smoke."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कौन्तेय! स्वभाव से उत्पन्न कर्म दोषयुक्त होने पर भी त्यागना नहीं चाहिए, क्योंकि सभी कर्म धुएँ से ढकी अग्नि के समान दोष से आच्छादित होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.49",
+    "chapter": 18,
+    "verse": 49,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः ।\nनैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति ॥१८-४९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "One whose intellect is unattached everywhere, who has conquered the self and is free from desire, attains the supreme perfection of freedom from action through renunciation."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिसकी बुद्धि सर्वत्र आसक्ति से रहित है, जिसने अपने मन को जीत लिया है और जो इच्छा-रहित है, वह संन्यास द्वारा नैष्कर्म्य की परम सिद्धि प्राप्त करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.50",
+    "chapter": 18,
+    "verse": 50,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे ।\nसमासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा ॥१८-५०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Learn from Me briefly, O Arjuna, how one who has attained perfection reaches Brahman, the supreme state of knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कौन्तेय! मुझसे संक्षेप में यह जानो कि सिद्धि प्राप्त करने वाला मनुष्य ज्ञान की परम अवस्था ब्रह्म को कैसे प्राप्त होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.51",
+    "chapter": 18,
+    "verse": 51,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च ।\nशब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च ॥१८-५१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Endowed with a purified intellect, controlling the self with firmness, abandoning sense objects such as sound, and casting aside attraction and aversion."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "शुद्ध बुद्धि से युक्त होकर, धृति द्वारा आत्मसंयम करते हुए, शब्दादि विषयों का त्याग करके तथा राग-द्वेष को छोड़कर।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.52",
+    "chapter": 18,
+    "verse": 52,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः ।\nध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः ॥१८-५२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Dwelling in solitude, eating lightly, controlling speech, body and mind, ever devoted to meditation and endowed with detachment."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "एकांत में रहने वाला, अल्प आहार करने वाला, वाणी, शरीर और मन को संयम में रखने वाला, सदा ध्यानयोग में स्थित तथा वैराग्य को धारण करने वाला।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.53",
+    "chapter": 18,
+    "verse": 53,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अहंकारं बलं दर्पं कामं क्रोधं परिग्रहम् ।\nविमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते ॥१८-५३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Abandoning ego, power, arrogance, desire, anger, and possession, free from the sense of ownership, peaceful, one becomes fit for Brahman."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अहंकार, बल, दर्प, काम, क्रोध और संग्रह का त्याग करके, ममता-रहित और शांत होकर, मनुष्य ब्रह्मभाव को प्राप्त होने योग्य बनता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.54",
+    "chapter": 18,
+    "verse": 54,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति ।\nसमः सर्वेषु भूतेषु मद्भक्तिं लभते पराम् ॥१८-५४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Becoming Brahman-realized, serene in mind, one neither grieves nor desires; being equal to all beings, one attains supreme devotion to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "ब्रह्मभाव को प्राप्त होकर, प्रसन्नचित्त होकर, न शोक करता है न इच्छा करता है; सब प्राणियों में समभाव रखकर मेरी परम भक्ति को प्राप्त करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.55",
+    "chapter": 18,
+    "verse": 55,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः ।\nततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम् ॥१८-५५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "By devotion one comes to know Me truly, who and what I am; then, having known Me in truth, one enters into Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "भक्ति द्वारा मनुष्य मुझे तत्त्व से जानता है कि मैं क्या और कितना हूँ; फिर मुझे तत्त्व से जानकर मुझमें प्रवेश करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.56",
+    "chapter": 18,
+    "verse": 56,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः ।\nमत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम् ॥१८-५६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Though constantly performing all actions, one who takes refuge in Me attains the eternal and imperishable abode by My grace."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो सदा सब कर्म करता हुआ भी मेरा आश्रय लेता है, वह मेरी कृपा से शाश्वत और अविनाशी पद को प्राप्त करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.57",
+    "chapter": 18,
+    "verse": 57,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः ।\nबुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव ॥१८-५७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Mentally dedicating all actions to Me, regarding Me as the Supreme, taking refuge in the yoga of intellect, remain constantly absorbed in Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मन से सभी कर्म मुझे समर्पित करके, मुझे परम मानकर, बुद्धियोग का आश्रय लेकर, सदा मुझमें चित्त लगाए रखो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.58",
+    "chapter": 18,
+    "verse": 58,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि ।\nअथ चेत्त्वमहंकारान्न श्रोष्यसि विनङ्क्ष्यसि ॥१८-५८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "With your mind fixed on Me, you will overcome all obstacles by My grace; but if, from egoism, you do not listen, you shall perish."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मुझमें चित्त लगाकर तुम मेरी कृपा से सभी बाधाओं को पार कर जाओगे; लेकिन यदि अहंकार के कारण मेरी बात नहीं सुनोगे तो नष्ट हो जाओगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.59",
+    "chapter": 18,
+    "verse": 59,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यदहंकारमाश्रित्य न योत्स्य इति मन्यसे ।\nमिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति ॥१८-५९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "If, taking refuge in egoism, you think ‘I will not fight,’ this resolve of yours is false; your own nature will compel you."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यदि अहंकार का आश्रय लेकर तुम यह सोचते हो कि ‘मैं युद्ध नहीं करूँगा’, तो यह तुम्हारा निश्चय मिथ्या है; तुम्हारा स्वभाव तुम्हें बाध्य करेगा।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.60",
+    "chapter": 18,
+    "verse": 60,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा ।\nकर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत् ॥१८-६०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Bound by your own duty born of your nature, O Arjuna, you will helplessly do that which you do not wish to do, deluded by ignorance."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कौन्तेय! अपने स्वभाव से उत्पन्न कर्म से बँधा हुआ तुम मोह के कारण जो करना नहीं चाहते, उसे भी विवश होकर करोगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.61",
+    "chapter": 18,
+    "verse": 61,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति ।\nभ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया ॥१८-६१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Supreme Lord resides in the hearts of all beings, O Arjuna, causing all beings to revolve by His power, as if mounted on a machine."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे अर्जुन! ईश्वर सभी प्राणियों के हृदय में स्थित है और अपनी माया से उन्हें यंत्र पर आरूढ़ किए हुए के समान घुमाता रहता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.62",
+    "chapter": 18,
+    "verse": 62,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तमेव शरणं गच्छ सर्वभावेन भारत ।\nतत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम् ॥१८-६२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Take refuge in Him alone with all your being, O Arjuna; by His grace you will attain supreme peace and the eternal abode."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे भारत! सम्पूर्ण भाव से उसी की शरण में जाओ; उसकी कृपा से तुम परम शान्ति और शाश्वत पद को प्राप्त करोगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.63",
+    "chapter": 18,
+    "verse": 63,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया ।\nविमृश्यैतदशेषेण यथेच्छसि तथा कुरु ॥१८-६३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Thus I have explained to you the most secret of all knowledge. Reflect on this fully, and then act as you wish."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस प्रकार मैंने तुम्हें सबसे गोपनीय ज्ञान बताया है। इसे भलीभाँति विचार कर फिर जैसा चाहो वैसा करो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.64",
+    "chapter": 18,
+    "verse": 64,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः ।\nइष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् ॥१८-६४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Hear again My supreme word, the most secret of all; because you are dear to Me, I shall speak what is beneficial to you."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अब फिर से मेरा यह परम और अत्यंत गोपनीय वचन सुनो; तुम मुझे अत्यंत प्रिय हो, इसलिए मैं तुम्हारे हित की बात कहूँगा।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.65",
+    "chapter": 18,
+    "verse": 65,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु ।\nमामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे ॥१८-६५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Fix your mind on Me, be devoted to Me, worship Me, bow down to Me. You will surely come to Me; this is My promise, for you are dear to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मुझमें मन लगाओ, मेरे भक्त बनो, मेरी पूजा करो और मुझे नमस्कार करो। तुम निश्चय ही मुझे प्राप्त करोगे—यह मेरा सत्य वचन है, क्योंकि तुम मुझे प्रिय हो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.66",
+    "chapter": 18,
+    "verse": 66,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज ।\nअहं त्वां सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः ॥१८-६६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Abandon all varieties of duty and take refuge in Me alone. I shall liberate you from all sins; do not grieve."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "सब धर्मों को त्यागकर मेरी एक शरण में आओ। मैं तुम्हें सभी पापों से मुक्त कर दूँगा; शोक मत करो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.67",
+    "chapter": 18,
+    "verse": 67,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "इदं ते नातपस्काय नाभक्ताय कदाचन ।\nन चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति ॥१८-६७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "This teaching should never be explained to one who is without austerity, devotion, service, or who is envious of Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यह उपदेश न तो तपहीन को, न अभक्त को, न सेवा-रहित को और न ही मुझसे द्वेष रखने वाले को कहना चाहिए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.68",
+    "chapter": 18,
+    "verse": 68,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति ।\nभक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः ॥१८-६८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who explains this supreme secret to My devotees, having performed supreme devotion to Me, shall come to Me without doubt."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो इस परम गोपनीय ज्ञान को मेरे भक्तों में बताएगा और मेरी परम भक्ति करेगा, वह निस्संदेह मुझे प्राप्त होगा।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.69",
+    "chapter": 18,
+    "verse": 69,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः ।\nभविता न च मे तस्मादन्यः प्रियतरो भुवि ॥१८-६९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among human beings, there is none more dear to Me than he, nor will there ever be anyone more dear to Me on this earth."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मनुष्यों में उससे बढ़कर मेरा प्रिय कोई नहीं है, न ही पृथ्वी पर भविष्य में कोई उससे अधिक प्रिय होगा।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.70",
+    "chapter": 18,
+    "verse": 70,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः ।\nज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः ॥१८-७०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who studies this sacred dialogue of ours shall worship Me through the sacrifice of knowledge; this is My conviction."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो हमारे इस धर्मयुक्त संवाद का अध्ययन करेगा, वह ज्ञानयज्ञ द्वारा मेरी पूजा करेगा—यह मेरा मत है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.71",
+    "chapter": 18,
+    "verse": 71,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रद्धावाननसूयश्च शृणुयादपि यो नरः ।\nसोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम् ॥१८-७१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Even a person who listens to this teaching with faith and without envy becomes free and attains the auspicious worlds of the righteous."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो श्रद्धा और द्वेषरहित होकर इस उपदेश को सुनता है, वह भी मुक्त होकर पुण्यात्माओं के शुभ लोकों को प्राप्त करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.72",
+    "chapter": 18,
+    "verse": 72,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा ।\nकच्चिदज्ञानसंमोहः प्रनष्टस्ते धनञ्जय ॥१८-७२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "O Partha, have you listened to this with a focused mind? Has your ignorance and delusion been destroyed, O Dhananjaya?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! क्या तुमने इसे एकाग्रचित्त होकर सुना? हे धनंजय! क्या तुम्हारा अज्ञानजनित मोह नष्ट हो गया?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.73",
+    "chapter": 18,
+    "verse": 73,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत ।\nस्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव ॥१८-७३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Arjuna said: My delusion is destroyed and my memory is regained by Your grace, O Achyuta. I stand firm, free from doubt, and shall act according to Your word."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन बोले—हे अच्युत! आपकी कृपा से मेरा मोह नष्ट हो गया है और मेरी स्मृति लौट आई है। मैं संदेह से मुक्त होकर आपके वचन का पालन करूँगा।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.74",
+    "chapter": 18,
+    "verse": 74,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सञ्जय उवाच\nइत्यहं वासुदेवस्य पार्थस्य च महात्मनः ।\nसंवादमिममश्रौषमद्भुतं रोमहर्षणम् ॥१८-७४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Sanjaya said: Thus I heard this wonderful and thrilling dialogue between Vasudeva and the great-souled Arjuna."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "संजय बोले—इस प्रकार मैंने वासुदेव और महात्मा अर्जुन के इस अद्भुत और रोमांचक संवाद को सुना।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.75",
+    "chapter": 18,
+    "verse": 75,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "व्यासप्रसादाच्छुतवानेतद्गुह्यमहं परम् ।\nयोगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम् ॥१८-७५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "By the grace of Vyasa, I heard this supreme secret yoga directly from Krishna, the Lord of Yoga, as He spoke Himself."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "व्यासजी की कृपा से मैंने इस परम गोपनीय योग को योगेश्वर श्रीकृष्ण से प्रत्यक्ष सुना।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.76",
+    "chapter": 18,
+    "verse": 76,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम् ।\nकेशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः ॥१८-७६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "O King, remembering again and again this wonderful and sacred dialogue between Krishna and Arjuna, I rejoice again and again."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे राजन्! श्रीकृष्ण और अर्जुन के इस पवित्र और अद्भुत संवाद को बार-बार स्मरण करके मैं बार-बार हर्षित होता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.77",
+    "chapter": 18,
+    "verse": 77,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः ।\nविस्मयो मे महान्राजन्हृष्यामि च पुनः पुनः ॥१८-७७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "And remembering again and again that most wondrous form of Lord Hari, O King, I am filled with great amazement and joy."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे राजन्! भगवान् हरि के उस अत्यंत अद्भुत रूप को बार-बार स्मरण करके मैं अत्यंत विस्मित और हर्षित होता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  },
+  {
+    "id": "18.78",
+    "chapter": 18,
+    "verse": 78,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः ।\nतत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम ॥१८-७८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Wherever there is Krishna, the Lord of Yoga, and Arjuna the archer, there will surely be prosperity, victory, happiness, and righteousness — this is my conviction."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जहाँ योगेश्वर श्रीकृष्ण हैं और जहाँ धनुर्धारी अर्जुन हैं, वहीं निश्चित रूप से श्री, विजय, समृद्धि और नीति होती है—यह मेरा मत है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "moksha_sannyasa_yoga"
+    }
+  }
+]
+
+
+
+
+
+

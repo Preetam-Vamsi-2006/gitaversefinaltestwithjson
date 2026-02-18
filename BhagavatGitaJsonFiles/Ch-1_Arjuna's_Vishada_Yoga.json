@@ -1,0 +1,1165 @@
+[
+  {
+    "id": "1.1",
+    "chapter": 1,
+    "verse": 1,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "धृतराष्ट्र उवाच ।\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः ।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥१-१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Dhritarashtra said: O Sanjaya, what did my sons and the sons of Pandu do, having assembled at the sacred field of Kurukshetra, eager for battle?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "धृतराष्ट्र बोले—हे संजय! धर्मभूमि कुरुक्षेत्र में युद्ध की इच्छा से एकत्र मेरे और पाण्डु के पुत्रों ने क्या किया?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+  {
+    "id": "1.2",
+    "chapter": 1,
+    "verse": 2,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सञ्जय उवाच ।\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।\nआचार्यमुपसंगम्य राजा वचनमब्रवीत् ॥१-२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Sanjaya said: Seeing the army of the Pandavas arranged in military formation, King Duryodhana approached his teacher and spoke."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "संजय बोले—पाण्डवों की सुसज्जित सेना को देखकर राजा दुर्योधन अपने आचार्य के पास जाकर बोला।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+  {
+    "id": "1.3",
+    "chapter": 1,
+    "verse": 3,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥१-३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Behold, O teacher, this great army of the sons of Pandu, arranged by your intelligent disciple, the son of Drupada."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे आचार्य! आपके बुद्धिमान शिष्य द्रुपदपुत्र द्वारा सुसज्जित पाण्डवों की इस विशाल सेना को देखिए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+  {
+    "id": "1.4",
+    "chapter": 1,
+    "verse": 4,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि ।\nयुयुधानो विराटश्च द्रुपदश्च महारथः ॥१-४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Here are heroes and mighty bowmen equal in battle to Bhima and Arjuna—Yuyudhana, Virata, and Drupada, the great warrior."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यहाँ भीम और अर्जुन के समान पराक्रमी योद्धा हैं—युयुधान, विराट और महारथी द्रुपद।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+  {
+    "id": "1.5",
+    "chapter": 1,
+    "verse": 5,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् ।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥१-५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Dhrishtaketu, Chekitana, the valiant king of Kashi, Purujit, Kuntibhoja, and Shaibya—the best of men."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "धृष्टकेतु, चेकितान, पराक्रमी काशी नरेश, पुरुजित, कुन्तिभोज और श्रेष्ठ नर शैब्य।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.6",
+    "chapter": 1,
+    "verse": 6,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् ।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥१-६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The courageous Yudhamanyu, the valiant Uttamaujas, the son of Subhadra, and the sons of Draupadi—all great chariot-warriors."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "पराक्रमी युधामन्यु, वीर उत्तमौजा, सुभद्रापुत्र अभिमन्यु और द्रौपदी के पुत्र—सब महारथी हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.7",
+    "chapter": 1,
+    "verse": 7,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम ।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते ॥१-७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Know also, O best of the twice-born, the leaders of our army; I shall name them for your information."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे द्विजश्रेष्ठ! अब हमारी सेना के प्रमुख योद्धाओं को भी जानिए, जिन्हें मैं बताता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.8",
+    "chapter": 1,
+    "verse": 8,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः ।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥१-८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Yourself, Bhishma, Karna, Kripa the victorious, Ashvatthama, Vikarna, and the son of Somadatta."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "आप, भीष्म, कर्ण, युद्ध विजेता कृपाचार्य, अश्वत्थामा, विकर्ण और सोमदत्त का पुत्र।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.9",
+    "chapter": 1,
+    "verse": 9,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः ।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥१-९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "And many other heroes, ready to give up their lives for my sake, armed with various weapons, skilled in warfare."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मेरे लिए प्राण त्यागने को तत्पर अनेक वीर योद्धा भी हैं, जो युद्ध में निपुण हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.10",
+    "chapter": 1,
+    "verse": 10,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् ।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥१-१०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Our army, protected by Bhishma, is insufficient, while their army, protected by Bhima, is sufficient."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "भीष्म द्वारा संरक्षित हमारी सेना अपर्याप्त है, जबकि भीम द्वारा संरक्षित उनकी सेना पर्याप्त है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.11",
+    "chapter": 1,
+    "verse": 11,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अयनेषु च सर्वेषु यथाभागमवस्थिताः ।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ॥१-११॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Therefore, stationed in your respective positions, all of you must protect Bhishma alone."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अतः अपने-अपने स्थानों पर स्थित होकर आप सभी भीष्म की रक्षा करें।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.12",
+    "chapter": 1,
+    "verse": 12,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तस्य संजनयन्हर्षं कुरुवृद्धः पितामहः ।\nसिंहनादं विनद्यौच्चैः शङ्खं दध्मौ प्रतापवान् ॥१-१२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Then Bhishma, the grandsire of the Kurus, blew his conch loudly like a lion’s roar, filling Duryodhana with joy."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "तब कुरुवंश के वृद्ध भीष्म ने सिंहनाद करते हुए शंख बजाया और दुर्योधन को हर्षित किया।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.13",
+    "chapter": 1,
+    "verse": 13,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः ।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ॥१-१३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Then conches, kettledrums, tabors, drums, and horns were sounded suddenly, creating a tumultuous noise."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इसके बाद शंख, नगाड़े और ढोल एक साथ बज उठे और भयंकर शब्द हुआ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.14",
+    "chapter": 1,
+    "verse": 14,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ॥१-१४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Then, seated in a great chariot drawn by white horses, Krishna and Arjuna blew their divine conches."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "तब श्वेत अश्वों से युक्त महान रथ पर स्थित श्रीकृष्ण और अर्जुन ने दिव्य शंख बजाए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.15",
+    "chapter": 1,
+    "verse": 15,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनंजयः ।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ॥१-१५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Hrishikesha blew the Panchajanya, Arjuna the Devadatta, and Bhima the mighty Paundra."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हृषीकेश ने पाञ्चजन्य, अर्जुन ने देवदत्त और भीम ने महाशंख पौण्ड्र बजाया।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.16",
+    "chapter": 1,
+    "verse": 16,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः ।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ ॥१-१६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "King Yudhishthira, son of Kunti, blew Anantavijaya; Nakula and Sahadeva blew Sughosha and Manipushpaka."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कुन्तीपुत्र राजा युधिष्ठिर ने अनन्तविजय, नकुल और सहदेव ने सुघोष और मणिपुष्पक बजाया।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.17",
+    "chapter": 1,
+    "verse": 17,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "काश्यश्च परमेष्वासः शिखण्डी च महारथः ।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ॥१-१७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The king of Kashi, the great archer; Shikhandi, Dhrishtadyumna, Virata, and the undefeated Satyaki."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "परम धनुर्धर काशी नरेश, महारथी शिखण्डी, धृष्टद्युम्न, विराट और अजेय सात्यकि।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.18",
+    "chapter": 1,
+    "verse": 18,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते ।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ॥१-१८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra blew their conches separately."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "द्रुपद, द्रौपदी के पुत्र और महाबाहु अभिमन्यु ने अलग-अलग शंख बजाए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.19",
+    "chapter": 1,
+    "verse": 19,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् ।\nनभश्च पृथिवीं चैव तुमुलो व्यनुनादयन् ॥१-१९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That tumultuous sound shattered the hearts of the sons of Dhritarashtra, reverberating through heaven and earth."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "उस भयानक शब्द ने धृतराष्ट्र के पुत्रों के हृदय विदीर्ण कर दिए और आकाश-पृथ्वी को गुँजा दिया।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.20",
+    "chapter": 1,
+    "verse": 20,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः ।\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः ॥१-२०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Then Arjuna, seeing the sons of Dhritarashtra arrayed and the battle about to begin, lifted his bow."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "तब कपिध्वज अर्जुन ने युद्ध आरम्भ होने से पहले धृतराष्ट्र के पुत्रों को देखकर धनुष उठाया।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.21",
+    "chapter": 1,
+    "verse": 21,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "हृषीकेशं तदा वाक्यमिदमाह महीपते ।\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ॥१-२१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Arjuna said to Hrishikesha: O Achyuta, place my chariot between the two armies."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन ने हृषीकेश से कहा—हे अच्युत! मेरा रथ दोनों सेनाओं के बीच खड़ा कीजिए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.22",
+    "chapter": 1,
+    "verse": 22,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् ।\nकैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे ॥१-२२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "So that I may observe those assembled here, eager to fight, and know with whom I must contend."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "ताकि मैं युद्ध की इच्छा से खड़े योद्धाओं को देख सकूँ और जान सकूँ कि मुझे किनसे युद्ध करना है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.23",
+    "chapter": 1,
+    "verse": 23,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः ।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ॥१-२३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Let me see those who have come here to fight, wishing to please the evil-minded son of Dhritarashtra."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं उन योद्धाओं को देखना चाहता हूँ जो दुर्बुद्धि दुर्योधन को प्रसन्न करने के लिए युद्ध को आए हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.24",
+    "chapter": 1,
+    "verse": 24,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एवमुक्तो हृषीकेशो गुडाकेशेन भारत ।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ॥१-२४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Thus addressed by Arjuna, Krishna placed the excellent chariot between the two armies."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन के कहने पर श्रीकृष्ण ने उत्तम रथ को दोनों सेनाओं के बीच स्थापित किया।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.25",
+    "chapter": 1,
+    "verse": 25,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् ।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥१-२५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "In front of Bhishma, Drona, and all the rulers, Krishna said: O Partha, behold these Kurus assembled here."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "भीष्म, द्रोण और सभी राजाओं के सामने श्रीकृष्ण ने कहा—हे पार्थ! इन एकत्रित कुरुओं को देखो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+  {
+    "id": "1.26",
+    "chapter": 1,
+    "verse": 26,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान् ।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा ॥१-२६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "There Arjuna saw stationed fathers, grandfathers, teachers, uncles, brothers, sons, grandsons, and friends."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वहाँ अर्जुन ने पिता, पितामह, आचार्य, मामा, भाई, पुत्र, पौत्र और मित्रों को देखा।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+  {
+    "id": "1.27",
+    "chapter": 1,
+    "verse": 27,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ।\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् ॥१-२७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He also saw fathers-in-law and well-wishers present in both armies. Seeing all his relatives arrayed there, Arjuna was overwhelmed."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "दोनों सेनाओं में स्थित ससुर और हितैषियों को देखकर अर्जुन अपने सभी संबंधियों को देखकर व्याकुल हो गया।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+  {
+    "id": "1.28",
+    "chapter": 1,
+    "verse": 28,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कृपया परयाऽऽविष्टो विषीदन्निदमब्रवीत् ।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ॥१-२८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Filled with deep compassion and sorrow, Arjuna spoke: O Krishna, seeing my own kinsmen eager to fight—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अत्यन्त करुणा से व्याप्त होकर शोकग्रस्त अर्जुन बोला—हे कृष्ण! युद्ध की इच्छा से खड़े अपने स्वजनों को देखकर—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+  {
+    "id": "1.29",
+    "chapter": 1,
+    "verse": 29,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति ।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते ॥१-२९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "My limbs fail, my mouth dries, my body trembles, and my hair stands on end."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मेरे अंग शिथिल हो रहे हैं, मुख सूख रहा है, शरीर काँप रहा है और रोमांच हो रहा है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+  {
+    "id": "1.30",
+    "chapter": 1,
+    "verse": 30,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते ।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः ॥१-३०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "My bow slips from my hand, my skin burns, I cannot stand steady, and my mind reels."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हाथ से गांडीव गिर रहा है, त्वचा जल रही है, मैं खड़ा नहीं रह पा रहा और मन भ्रमित हो रहा है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+  {
+    "id": "1.31",
+    "chapter": 1,
+    "verse": 31,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "निमित्तानि च पश्यामि विपरीतानि केशव ।\nन च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे ॥१-३१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I see evil omens, O Keshava, and I foresee no good in killing my own people in battle."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे केशव! मुझे विपरीत लक्षण दिखाई दे रहे हैं और युद्ध में अपने स्वजनों को मारने में कोई कल्याण नहीं दिखता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+  {
+    "id": "1.32",
+    "chapter": 1,
+    "verse": 32,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ।\nकिं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा ॥१-३२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I desire neither victory nor kingdom nor pleasures. What use are these to us, O Govinda?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कृष्ण! मुझे न विजय चाहिए, न राज्य, न सुख। ऐसे राज्य और जीवन का क्या लाभ?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.33",
+    "chapter": 1,
+    "verse": 33,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ।\nत इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च ॥१-३३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those for whose sake we desire kingdom and pleasures are standing here ready to give up their lives and wealth."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिनके लिए हम राज्य और सुख चाहते हैं, वही लोग यहाँ प्राण और धन त्यागने को खड़े हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.34",
+    "chapter": 1,
+    "verse": 34,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः ।\nमातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा ॥१-३४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Teachers, fathers, sons, grandfathers, uncles, fathers-in-law, grandsons, brothers-in-law, and relatives—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "आचार्य, पिता, पुत्र, पितामह, मामा, ससुर, पौत्र, साले और अन्य संबंधी—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.35",
+    "chapter": 1,
+    "verse": 35,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ।\nअपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते ॥१-३५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I do not wish to kill them, even if they kill me, O Madhusudana—not even for sovereignty over the three worlds, what then of this earth?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे मधुसूदन! चाहे वे मुझे मार दें, फिर भी मैं उन्हें नहीं मारना चाहता—तीनों लोकों के राज्य के लिए भी नहीं, पृथ्वी की तो बात ही क्या।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.36",
+    "chapter": 1,
+    "verse": 36,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ।\nपापमेवाश्रयेदस्मान्हत्वैतानाततायिनः ॥१-३६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "What joy would be ours by killing the sons of Dhritarashtra? Only sin would cling to us by slaying them."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे जनार्दन! धृतराष्ट्र के पुत्रों को मारकर हमें क्या सुख मिलेगा? उन्हें मारकर हमें केवल पाप ही लगेगा।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.37",
+    "chapter": 1,
+    "verse": 37,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् ।\nस्वजनं हि कथं हत्वा सुखिनः स्याम माधव ॥१-३७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Therefore, we should not kill our own relatives. How can we be happy by killing our own people, O Madhava?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इसलिए हमें अपने ही संबंधियों को नहीं मारना चाहिए। हे माधव! अपने स्वजनों को मारकर हम कैसे सुखी होंगे?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.38",
+    "chapter": 1,
+    "verse": 38,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः ।\nकुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ॥१-३८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Though they, blinded by greed, see no evil in destroying the family or betraying friends—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यद्यपि लोभ से ग्रस्त ये लोग कुलनाश और मित्रद्रोह के दोष को नहीं देखते—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.39",
+    "chapter": 1,
+    "verse": 39,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् ।\nकुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥१-३९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Why should we not turn away from this sin, seeing clearly the evil of destroying a family, O Janardana?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे जनार्दन! कुलनाश के दोष को जानकर हमें इस पाप से क्यों न हट जाना चाहिए?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.40",
+    "chapter": 1,
+    "verse": 40,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः ।\nधर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥१-४०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "With the destruction of the family, its eternal traditions perish; when righteousness is destroyed, unrighteousness overcomes the whole family."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कुल के नष्ट होने से सनातन कुलधर्म नष्ट हो जाते हैं, और धर्म के नष्ट होने पर अधर्म पूरे कुल पर छा जाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.41",
+    "chapter": 1,
+    "verse": 41,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः ।\nस्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ॥१-४१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "When unrighteousness prevails, the women of the family become corrupted, leading to social disorder."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कृष्ण! अधर्म बढ़ने से कुल की स्त्रियाँ दूषित होती हैं, जिससे वर्णसंकर उत्पन्न होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.42",
+    "chapter": 1,
+    "verse": 42,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च ।\nपतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ॥१-४२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Such disorder leads to hell for the family destroyers; ancestors fall, deprived of offerings."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वर्णसंकर कुलघातियों और कुल के लिए नरक का कारण बनता है; उनके पितर पिंड और जल के अभाव में गिर जाते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.43",
+    "chapter": 1,
+    "verse": 43,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः ।\nउत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ॥१-४३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "By these evils, the eternal duties of caste and family are destroyed."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इन दोषों से जाति और कुल के सनातन धर्म नष्ट हो जाते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.44",
+    "chapter": 1,
+    "verse": 44,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन ।\nनरकेऽनियतं वासो भवतीत्यनुशुश्रुम ॥१-४४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "We have heard that those whose family traditions are destroyed dwell in hell for an indefinite period."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे जनार्दन! जिनका कुलधर्म नष्ट हो जाता है, वे मनुष्य अनिश्चित काल तक नरक में रहते हैं—ऐसा हमने सुना है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.45",
+    "chapter": 1,
+    "verse": 45,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् ।\nयद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ॥१-४५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Alas! We are resolved to commit a great sin, driven by greed for kingdom and pleasure."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हाय! राज्य और सुख के लोभ में हम अपने स्वजनों को मारने के लिए उद्यत होकर महान पाप करने जा रहे हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.46",
+    "chapter": 1,
+    "verse": 46,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः ।\nधार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ॥१-४६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "If the sons of Dhritarashtra were to kill me, unresisting and unarmed, that would be better for me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यदि धृतराष्ट्र के पुत्र मुझे निःशस्त्र और प्रतिकार न करने वाले को मार दें, तो वह मेरे लिए अधिक श्रेयस्कर होगा।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  },
+
+  {
+    "id": "1.47",
+    "chapter": 1,
+    "verse": 47,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एवमुक्त्वाऽर्जुनः सङ्ख्ये रथोपस्थ उपाविशत् ।\nविसृज्य सशरं चापं शोकसंविग्नमानसः ॥१-४७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Having spoken thus, Arjuna sat down on the chariot seat, casting aside his bow and arrows, his mind overwhelmed with sorrow."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस प्रकार कहकर अर्जुन शोक से व्याकुल मन से धनुष-बाण छोड़कर रथ में बैठ गया।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "arjuna_vishada_yoga"
+    }
+  }
+]

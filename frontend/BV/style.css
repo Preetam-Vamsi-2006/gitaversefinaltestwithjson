@@ -1,0 +1,225 @@
+/* Reset & Variables */
+:root {
+    --gold: #d4af37;
+    --gold-glow: rgba(212, 175, 55, 0.6);
+    --parchment-ink: #2c1b18;
+    --parchment-ink-dim: rgba(44, 27, 24, 0.6);
+    --input-bg: rgba(44, 27, 24, 0.03);
+    --input-border: rgba(44, 27, 24, 0.2);
+    --font-title: 'Cinzel', serif;
+    --font-body: 'MedievalSharp', cursive;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* 1. Galaxy Background & Layout */
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: #050510;
+    background-image: url('galaxy.jpg'); /* Ensure this image exists */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: var(--font-title);
+    color: var(--parchment-ink);
+}
+
+/* 2. Rotating Sudarshana Chakra (Background Layer) */
+.chakra-layer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 110vmin; /* Responsive size based on viewport */
+    height: 110vmin;
+    background-image: url('chakra.png'); /* Ensure this image exists */
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    z-index: 1; /* Behind scroll */
+    opacity: 0.8;
+    filter: drop-shadow(0 0 30px var(--gold-glow));
+    /* Animation */
+    animation: rotateChakra 120s linear infinite, pulseGlow 4s ease-in-out infinite;
+    pointer-events: none; /* Let clicks pass through */
+}
+
+@keyframes rotateChakra {
+    from {
+        transform: translate(-50%, -50%) rotate(0deg);
+    }
+    to {
+        transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+
+@keyframes pulseGlow {
+    0%, 100% {
+        filter: drop-shadow(0 0 30px var(--gold-glow));
+        opacity: 0.8;
+    }
+    50% {
+        filter: drop-shadow(0 0 60px rgba(212, 175, 55, 0.8));
+        opacity: 1;
+    }
+}
+
+/* 3. Scroll Image (Foreground Layer) */
+.scroll-container {
+    position: relative;
+    z-index: 10; /* Above Chakra and Dust */
+    width: min(750px, 95vw);
+    height: min(950px, 92vh);
+    aspect-ratio: 3/4; /* Maintain scroll shape */
+    background-image: url('scroll.png'); /* Ensure this image exists */
+    background-size: 100% 100%; /* Stretch to fit container */
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    filter: drop-shadow(0 50px 100px rgba(0,0,0,0.95));
+}
+
+.scroll-content {
+    width: 65%;
+    height: 70%; /* Confine content to the safe area of the scroll */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; /* Center vertically within the paper */
+    text-align: center;
+    padding: 1rem;
+    gap: 0.5rem;
+    margin-top: 8rem;
+}
+
+/* 4. Transparent Form */
+.form-card {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: center;
+}
+
+input, select {
+    width: 90%;
+    padding: 8px;
+    background: var(--input-bg);
+    border: none;
+    border-bottom: 2px solid var(--input-border);
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    color: var(--parchment-ink);
+    font-weight: 700;
+    outline: none;
+    text-align: center;
+    transition: all 0.3s ease;
+    border-radius: 4px 4px 0 0;
+}
+
+input::placeholder {
+    color: var(--parchment-ink-dim);
+    font-style: italic;
+}
+
+input:focus, select:focus {
+    background: rgba(44, 27, 24, 0.08);
+    border-bottom-color: var(--gold);
+}
+
+button {
+    margin-top: 10px;
+    margin-bottom: 4px;
+    padding: 12px 24px;
+    background: transparent;
+    border: 2px solid var(--parchment-ink);
+    font-family: var(--font-title);
+    font-weight: 700;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    letter-spacing: 1px;
+}
+
+button:hover {
+    background: var(--parchment-ink);
+    color: var(--gold);
+    box-shadow: 0 5px 15px rgba(44, 27, 24, 0.3);
+    letter-spacing: 3px;
+}
+
+button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+    border-color: var(--input-border);
+}
+
+/* 5. Output Text & 6. Audio Button */
+.output-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    min-height: auto;
+    margin-top: 6px;
+}
+
+#outputText {
+    margin-top: 4px;
+    margin-bottom: 4px;
+    font-family: var(--font-body);
+    font-size: 0.9rem;
+    line-height: 1.6;
+    font-weight: 600;
+    min-height: 3em;
+    text-shadow: 0 1px 1px rgba(255,255,255,0.5);
+}
+
+/* Typewriter Cursor */
+.cursor::after {
+    content: '|';
+    animation: blink 1s step-end infinite;
+    color: var(--parchment-ink);
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+
+.audio-btn {
+    pointer-events: auto !important;
+    margin-top: 6px;
+    border: 1px solid var(--parchment-ink);
+    font-size: 0.9rem;
+    padding: 8px 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    z-index: 99999;
+    position: relative;
+}
+
+/* Particle Canvas */
+#dustCanvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none; /* Allow clicks to pass through to the form */
+    z-index: 1; /* Background layer: Above Chakra (z-1) but behind Scroll (z-10) */
+}

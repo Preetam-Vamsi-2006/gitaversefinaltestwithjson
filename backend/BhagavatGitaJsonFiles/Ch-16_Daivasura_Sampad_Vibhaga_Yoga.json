@@ -1,0 +1,580 @@
+[
+  {
+    "id": "16.1",
+    "chapter": 16,
+    "verse": 1,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nअभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः ।\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ॥१६-१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: Fearlessness, purity of heart, steadfastness in knowledge and yoga, charity, self-control, sacrifice, study of the scriptures, austerity, and uprightness—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—अभय, सत्त्व की शुद्धि, ज्ञानयोग में स्थित रहना, दान, दम, यज्ञ, स्वाध्याय, तप और सरलता—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.2",
+    "chapter": 16,
+    "verse": 2,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् ।\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ॥१६-२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Non-violence, truthfulness, absence of anger, renunciation, peace, absence of fault-finding, compassion for beings, freedom from greed, gentleness, modesty, and absence of fickleness—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अहिंसा, सत्य, क्रोध का अभाव, त्याग, शांति, दोषदृष्टि का अभाव, प्राणियों पर दया, लोभ का अभाव, कोमलता, लज्जा और चंचलता का अभाव—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.3",
+    "chapter": 16,
+    "verse": 3,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता ।\nभवन्ति सम्पदं दैवीमभिजातस्य भारत ॥१६-३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Vigor, forgiveness, fortitude, purity, absence of hatred, and absence of excessive pride—these belong to one born with divine qualities, O Arjuna."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "तेज, क्षमा, धैर्य, शुद्धता, द्वेष का अभाव और अत्यधिक अभिमान का अभाव—ये हे भारत! दैवी संपदा से युक्त मनुष्य के गुण हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.4",
+    "chapter": 16,
+    "verse": 4,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च ।\nअज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ॥१६-४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Hypocrisy, arrogance, self-conceit, anger, harshness, and ignorance—these qualities belong to one born with demoniac nature, O Partha."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "दंभ, दर्प, अभिमान, क्रोध, कठोरता और अज्ञान—हे पार्थ! ये आसुरी संपदा से युक्त मनुष्य के गुण हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.5",
+    "chapter": 16,
+    "verse": 5,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता ।\nमा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ॥१६-५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The divine nature leads to liberation, the demoniac to bondage. Do not grieve, O Pandava; you are born with divine qualities."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "दैवी संपदा मोक्ष के लिए है और आसुरी बंधन के लिए। हे पाण्डव! शोक मत करो, तुम दैवी संपदा से युक्त हो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.6",
+    "chapter": 16,
+    "verse": 6,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च ।\nदैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ॥१६-६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "There are two kinds of beings in this world—the divine and the demoniac. The divine has been described at length; now hear from Me about the demoniac, O Arjuna."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस संसार में दो प्रकार की सृष्टि है—दैवी और आसुरी। दैवी का विस्तार से वर्णन किया गया है; अब हे पार्थ! मुझसे आसुरी के विषय में सुनो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.7",
+    "chapter": 16,
+    "verse": 7,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः ।\nन शौचं नापि चाचारो न सत्यं तेषु विद्यते ॥१६-७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The demoniac do not know what should be done or avoided; neither purity, proper conduct, nor truth is found in them."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "आसुरी लोग न प्रवृत्ति जानते हैं न निवृत्ति; न उनमें शुद्धता होती है, न आचार और न सत्य।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.8",
+    "chapter": 16,
+    "verse": 8,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् ।\nअपरस्परसम्भूतं किमन्यत्कामहैतुकम् ॥१६-८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "They say that the world is unreal, without foundation, without God, born of mutual desire—what else?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वे कहते हैं कि यह जगत असत्य, आधारहीन, ईश्वरविहीन है और केवल कामना से उत्पन्न हुआ है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.9",
+    "chapter": 16,
+    "verse": 9,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः ।\nप्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ॥१६-९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Holding such views, the lost-souled and small-minded engage in cruel actions, becoming enemies of the world, working for its destruction."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस दृष्टि को अपनाकर, नष्ट आत्मा और अल्पबुद्धि वाले लोग उग्र कर्मों में प्रवृत्त होते हैं और जगत के विनाश का कारण बनते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.10",
+    "chapter": 16,
+    "verse": 10,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः ।\nमोहाद्गृहीत्वाऽसद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः ॥१६-१०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Taking refuge in insatiable desire, filled with hypocrisy, pride, and arrogance, deluded, they hold false views and act with impure resolve."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अतृप्त कामनाओं का आश्रय लेकर, दंभ, मान और मद से युक्त, मोहवश मिथ्या दृष्टि अपनाकर वे अशुद्ध व्रतों में प्रवृत्त होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.11",
+    "chapter": 16,
+    "verse": 11,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः ।\nकामोपभोगपरमा एतावदिति निश्चिताः ॥१६-११॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "They are obsessed with innumerable anxieties which last until death, and they believe that gratification of desire is the highest goal of life."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वे असंख्य चिंताओं से घिरे रहते हैं जो मृत्यु तक बनी रहती हैं, और वे यही निश्चय करते हैं कि कामभोग ही जीवन का परम लक्ष्य है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.12",
+    "chapter": 16,
+    "verse": 12,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "आशापाशशतैर्बद्धाः कामक्रोधपरायणाः ।\nईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान् ॥१६-१२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Bound by hundreds of ties of hope, devoted to desire and anger, they strive to amass wealth unjustly for the sake of sensual enjoyment."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "सैकड़ों आशाओं के बंधन में बँधे हुए, काम और क्रोध के वशीभूत होकर, वे भोग के लिए अन्याय से धन संग्रह करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.13",
+    "chapter": 16,
+    "verse": 13,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् ।\nइदमस्तीदमपि मे भविष्यति पुनर्धनम् ॥१६-१३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "They think: ‘This has been gained by me today; this desire I shall fulfill; this is mine, and this wealth also shall be mine in the future.’"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वे सोचते हैं—आज यह मुझे मिला है, इस मनोरथ को मैं पूरा करूँगा; यह धन मेरा है और आगे भी बहुत धन मेरा होगा।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.14",
+    "chapter": 16,
+    "verse": 14,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "असौ मया हतः शत्रुर्हनिष्ये चापरानपि ।\nईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी ॥१६-१४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "‘That enemy has been slain by me, and others also I shall slay. I am the lord, I am the enjoyer, I am successful, powerful, and happy.’"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वह शत्रु मैंने मार दिया है और दूसरों को भी मारूँगा। मैं ही ईश्वर हूँ, मैं ही भोगी हूँ, मैं सिद्ध, बलवान और सुखी हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.15",
+    "chapter": 16,
+    "verse": 15,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया ।\nयक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः ॥१६-१५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "‘I am wealthy and well-born; who else is equal to me? I shall sacrifice, I shall give charity, and I shall rejoice’—thus deluded by ignorance."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं धनवान और कुलीन हूँ; मेरे समान और कौन है? मैं यज्ञ करूँगा, दान दूँगा और आनंद करूँगा—इस प्रकार वे अज्ञान से मोहित रहते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.16",
+    "chapter": 16,
+    "verse": 16,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अनेकचित्तविभ्रान्ता मोहजालसमावृताः ।\nप्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ॥१६-१६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Bewildered by many thoughts, ensnared in the net of delusion, attached to sensual pleasures, they fall into impure hells."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अनेक प्रकार के विचारों से भ्रमित, मोहजाल में फँसे और भोगों में आसक्त होकर वे अशुद्ध नरकों में गिरते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.17",
+    "chapter": 16,
+    "verse": 17,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः ।\nयजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ॥१६-१७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Self-conceited, stubborn, filled with pride and arrogance of wealth, they perform sacrifices in name only, with hypocrisy and without proper rules."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अपने आप को श्रेष्ठ मानने वाले, हठी, धन और मान के मद से युक्त लोग दंभपूर्वक केवल नाम के यज्ञ करते हैं, विधि के अनुसार नहीं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.18",
+    "chapter": 16,
+    "verse": 18,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अहंकारं बलं दर्पं कामं क्रोधं च संश्रिताः ।\nमामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ॥१६-१८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Taking refuge in egoism, power, arrogance, desire, and anger, they hate Me dwelling in their own bodies and in the bodies of others."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अहंकार, बल, दर्प, काम और क्रोध का आश्रय लेकर, वे अपने तथा दूसरों के शरीर में स्थित मुझसे द्वेष करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.19",
+    "chapter": 16,
+    "verse": 19,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तानहं द्विषतः क्रुरान्संसारेषु नराधमान् ।\nक्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ॥१६-१९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those hateful, cruel, and vile men, I repeatedly cast into demoniac wombs in the cycle of birth and death."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "ऐसे द्वेषी, क्रूर और अधम मनुष्यों को मैं बार-बार संसार में आसुरी योनियों में डालता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.20",
+    "chapter": 16,
+    "verse": 20,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि ।\nमामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ॥१६-२०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Entering demoniac wombs, the deluded ones, birth after birth, never attain Me, O Arjuna, and thus fall into the lowest state."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कौन्तेय! आसुरी योनियों में जन्म लेकर, मूढ़ लोग जन्म-जन्मांतर में मुझे प्राप्त नहीं करते और अंततः अधम गति को प्राप्त होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.21",
+    "chapter": 16,
+    "verse": 21,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः ।\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ॥१६-२१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "There are three gates leading to self-destruction and hell—lust, anger, and greed. Therefore, one should abandon these three."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "नरक के ये तीन द्वार हैं जो आत्मा का नाश करते हैं—काम, क्रोध और लोभ। इसलिए इन तीनों का त्याग करना चाहिए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.22",
+    "chapter": 16,
+    "verse": 22,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः ।\nआचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ॥१६-२२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "A person who is freed from these three gates of darkness, O Arjuna, practices what is beneficial for the self and thus attains the supreme goal."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कौन्तेय! इन तीन अंधकारमय द्वारों से मुक्त हुआ मनुष्य अपने कल्याण का आचरण करता है और परम गति को प्राप्त होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.23",
+    "chapter": 16,
+    "verse": 23,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः ।\nन स सिद्धिमवाप्नोति न सुखं न परां गतिम् ॥१६-२३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who disregards scriptural injunctions and acts according to his own desires attains neither perfection, nor happiness, nor the supreme goal."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो मनुष्य शास्त्रविधि को छोड़कर मनमानी करता है, वह न सिद्धि प्राप्त करता है, न सुख और न ही परम गति।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  },
+  {
+    "id": "16.24",
+    "chapter": 16,
+    "verse": 24,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ ।\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ॥१६-२४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Therefore, let scripture be your authority in determining what should be done and what should not be done. Knowing the injunctions of scripture, you should act here."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इसलिए कार्य और अकार्य के निर्णय में शास्त्र को प्रमाण मानो। शास्त्रविधान को जानकर ही तुम्हें कर्म करना चाहिए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "daivasura_sampad_vibhaga_yoga"
+    }
+  }
+]
+
+

@@ -1,0 +1,483 @@
+[
+  {
+    "id": "12.1",
+    "chapter": 12,
+    "verse": 1,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अर्जुन उवाच ।\nएवं सततयुक्ता ये भक्तास्त्वां पर्युपासते ।\nये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः ॥१२-१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Arjuna said: Those devotees who, ever steadfast, worship You, and those who worship the imperishable, unmanifest—which of these are better versed in yoga?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन बोले—जो भक्त निरन्तर युक्त होकर आपकी उपासना करते हैं और जो अव्यक्त, अक्षर की उपासना करते हैं—इनमें योग को अधिक जानने वाले कौन हैं?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.2",
+    "chapter": 12,
+    "verse": 2,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nमय्यावेश्य मनो ये मां नित्ययुक्ता उपासते ।\nश्रद्धया परयोपेतास्ते मे युक्ततमा मताः ॥१२-२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: Those who fix their minds on Me and always worship Me with steadfast faith are considered by Me to be the most perfect yogis."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—जो मन को मुझमें लगाकर नित्य युक्त होकर श्रद्धा सहित मेरी उपासना करते हैं, वे मेरे मत में श्रेष्ठ योगी हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.3",
+    "chapter": 12,
+    "verse": 3,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते ।\nसर्वत्रगमचिन्त्यं च कूटस्थमचलन्ध्रुवम् ॥१२-३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "But those who worship the imperishable, the indefinable, the unmanifest, the all-pervading, the unthinkable, the immutable, the immovable, and the eternal—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो अव्यक्त, अनिर्देश्य, सर्वव्यापी, अचिन्त्य, कूटस्थ, अचल और ध्रुव अक्षर की उपासना करते हैं—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.4",
+    "chapter": 12,
+    "verse": 4,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सन्नियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः ।\nते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः ॥१२-४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Restraining all the senses, even-minded everywhere, engaged in the welfare of all beings—they too attain Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इन्द्रियों को संयमित करके, सर्वत्र समबुद्धि रखने वाले और समस्त प्राणियों के हित में लगे हुए—वे भी मुझे प्राप्त करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.5",
+    "chapter": 12,
+    "verse": 5,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम् ।\nअव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते ॥१२-५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Greater is the difficulty for those whose minds are attached to the unmanifest, for the path of the unmanifest is hard for embodied beings."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अव्यक्त में आसक्त चित्त वाले लोगों के लिए साधना अधिक कष्टदायक है, क्योंकि देहधारी मनुष्यों के लिए अव्यक्त मार्ग कठिन होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.6",
+    "chapter": 12,
+    "verse": 6,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः ।\nअनन्येनैव योगेन मां ध्यायन्त उपासते ॥१२-६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "But those who dedicate all actions to Me, regard Me as the Supreme goal, and worship Me with exclusive devotion and meditation—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो समस्त कर्म मुझमें अर्पित करके मुझे ही परम लक्ष्य मानकर अनन्य योग से मेरा ध्यान और उपासना करते हैं—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.7",
+    "chapter": 12,
+    "verse": 7,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तेषामहं समुद्धर्ता मृत्युसंसारसागरात् ।\nभवामि नचिरात्पार्थ मय्यावेशितचेतसाम् ॥१२-७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "For them, whose minds are fixed on Me, I become the deliverer from the ocean of birth and death, O Arjuna."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! जिनका चित्त मुझमें स्थित है, उनके लिए मैं शीघ्र ही मृत्यु और संसार रूपी सागर से उद्धार करने वाला बनता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.8",
+    "chapter": 12,
+    "verse": 8,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय ।\nनिवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः ॥१२-८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Fix your mind on Me alone, place your intellect in Me; thereafter you shall dwell in Me—of this there is no doubt."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मन को मुझमें ही लगाओ और बुद्धि को मुझमें ही स्थिर करो; इसके बाद तुम मुझमें ही निवास करोगे—इसमें कोई संशय नहीं है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.9",
+    "chapter": 12,
+    "verse": 9,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम् ।\nअभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय ॥१२-९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "If you are unable to fix your mind steadily on Me, then seek to reach Me by the practice of repeated meditation, O Arjuna."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यदि तुम मन को मुझमें स्थिर नहीं कर सकते, तो हे धनञ्जय! अभ्यास योग द्वारा मुझे प्राप्त करने का प्रयास करो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.10",
+    "chapter": 12,
+    "verse": 10,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव ।\nमदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि ॥१२-१०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "If you are unable even to practice, then engage in actions for My sake; by performing actions for Me, you will attain perfection."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यदि अभ्यास में भी असमर्थ हो, तो मेरे लिए कर्म करने वाला बनो; मेरे लिए कर्म करते हुए तुम सिद्धि को प्राप्त करोगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.11",
+    "chapter": 12,
+    "verse": 11,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः ।\nसर्वकर्मफलत्यागं ततः कुरु यतात्मवान् ॥१२-११॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "If you are unable even to do this, then taking refuge in Me, renounce the fruits of all actions with self-control."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यदि तुम यह भी करने में असमर्थ हो, तो मेरे आश्रित होकर सभी कर्मों के फल का त्याग करो और आत्मसंयमी बनो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.12",
+    "chapter": 12,
+    "verse": 12,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रेयॊ हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते ।\nध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम् ॥१२-१२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Knowledge is superior to practice; meditation is superior to knowledge; renunciation of the fruits of action is superior to meditation; from renunciation, peace immediately follows."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अभ्यास से ज्ञान श्रेष्ठ है, ज्ञान से ध्यान श्रेष्ठ है और ध्यान से कर्मफल त्याग श्रेष्ठ है; त्याग से तुरंत शांति प्राप्त होती है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.13",
+    "chapter": 12,
+    "verse": 13,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च ।\nनिर्ममो निरहंकारः समदुःखसुखः क्षमी ॥१२-१३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who hates no being, who is friendly and compassionate, free from possessiveness and ego, balanced in pleasure and pain, and forgiving—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो किसी से द्वेष नहीं करता, सबका मित्र और करुणामय है, ममता और अहंकार से रहित है, सुख-दुःख में समान और क्षमाशील है—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.14",
+    "chapter": 12,
+    "verse": 14,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः ।\nमय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः ॥१२-१४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Content always, self-controlled, firm in resolve, with mind and intellect dedicated to Me—such a devotee is dear to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो सदा संतुष्ट, आत्मसंयमी, दृढ़ निश्चय वाला और मन-बुद्धि से मुझे अर्पित भक्त है, वह मुझे प्रिय है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.15",
+    "chapter": 12,
+    "verse": 15,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः ।\nहर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः ॥१२-१५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He by whom the world is not disturbed and who is not disturbed by the world, who is free from joy, envy, fear, and anxiety—he is dear to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिससे संसार उद्विग्न नहीं होता और जो संसार से उद्विग्न नहीं होता, जो हर्ष, अमर्ष, भय और उद्वेग से मुक्त है—वह मुझे प्रिय है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.16",
+    "chapter": 12,
+    "verse": 16,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः ।\nसर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः ॥१२-१६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who is free from dependence, pure, skillful, impartial, free from distress, and who renounces all undertakings—such a devotee is dear to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो अपेक्षा रहित, पवित्र, दक्ष, उदासीन, शोक रहित और सभी आरंभों का त्याग करने वाला भक्त है, वह मुझे प्रिय है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.17",
+    "chapter": 12,
+    "verse": 17,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति ।\nशुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः ॥१२-१७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who neither rejoices nor hates, neither grieves nor desires, renouncing both good and evil—such a devotee is dear to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो न हर्षित होता है, न द्वेष करता है, न शोक करता है, न इच्छा करता है, शुभ-अशुभ का त्यागी भक्त मुझे प्रिय है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.18",
+    "chapter": 12,
+    "verse": 18,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "समः शत्रौ च मित्रे च तथा मानापमानयोः ।\nशीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः ॥१२-१८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Equal to friend and foe, in honor and dishonor, in heat and cold, pleasure and pain, free from attachment—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो मित्र और शत्रु में, मान और अपमान में, शीत-उष्ण तथा सुख-दुःख में समान रहता है और आसक्ति से रहित है—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.19",
+    "chapter": 12,
+    "verse": 19,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित् ।\nअनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः ॥१२-१९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The same in praise and blame, silent, content with anything, homeless, steady-minded, full of devotion—such a person is dear to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो निंदा और स्तुति में समान, मौन, किसी से भी संतुष्ट, अनिकेत, स्थिर बुद्धि और भक्तिमान है—वह मुझे प्रिय है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  },
+  {
+    "id": "12.20",
+    "chapter": 12,
+    "verse": 20,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते ।\nश्रद्धधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः ॥१२-२०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those devotees who follow this immortal dharma as described, with faith and Me as the Supreme goal, are exceedingly dear to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो श्रद्धा के साथ इस अमृतमय धर्म का यथोक्त पालन करते हैं और मुझे ही परम लक्ष्य मानते हैं—वे भक्त मुझे अत्यंत प्रिय हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "bhakti_yoga"
+    }
+  }
+]
+

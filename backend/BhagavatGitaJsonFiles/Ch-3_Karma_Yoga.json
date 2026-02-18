@@ -1,0 +1,1035 @@
+[
+  {
+    "id": "3.1",
+    "chapter": 3,
+    "verse": 1,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अर्जुन उवाच ।\nज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन ।\nतत्किं कर्मणि घोरे मां नियोजयसि केशव ॥३-१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Arjuna said: If You consider knowledge superior to action, why do You engage me in this terrible action?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन बोले—हे जनार्दन! यदि आपके मत में ज्ञान कर्म से श्रेष्ठ है, तो मुझे इस भयानक कर्म में क्यों लगाते हैं?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.2",
+    "chapter": 3,
+    "verse": 2,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे ।\nतदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् ॥३-२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "You confuse my understanding with contradictory words. Tell me clearly the one path by which I may attain the highest good."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "आप मिले-जुले वचनों से मेरी बुद्धि को भ्रमित कर रहे हैं। कृपया एक मार्ग स्पष्ट बताइए जिससे मैं कल्याण प्राप्त कर सकूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.3",
+    "chapter": 3,
+    "verse": 3,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nलोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ ।\nज्ञानयोगेन सांख्यानां कर्मयोगेन योगिनाम् ॥३-३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: In this world there are two paths—knowledge for the contemplative and action for the active."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—हे निष्पाप! इस संसार में दो निष्ठाएँ कही गई हैं—ज्ञानयोग और कर्मयोग।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.4",
+    "chapter": 3,
+    "verse": 4,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते ।\nन च संन्यसनादेव सिद्धिं समधिगच्छति ॥३-४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "One does not attain freedom from action by avoiding action, nor perfection by mere renunciation."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कर्म न करने से न निष्कर्मता मिलती है और न केवल संन्यास से सिद्धि प्राप्त होती है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.5",
+    "chapter": 3,
+    "verse": 5,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् ।\nकार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः ॥३-५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "No one can remain inactive even for a moment; all are compelled to act by nature."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कोई भी व्यक्ति क्षणभर भी बिना कर्म किए नहीं रह सकता; प्रकृति के गुण उसे कर्म करने को विवश करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.6",
+    "chapter": 3,
+    "verse": 6,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् ।\nइन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते ॥३-६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "One who restrains the organs of action but dwells on sense objects is a hypocrite."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो कर्मेन्द्रियों को रोककर मन से विषयों का चिंतन करता है, वह मिथ्याचारी कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.7",
+    "chapter": 3,
+    "verse": 7,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन ।\nकर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते ॥३-७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who controls the senses with the mind and performs action without attachment excels."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो मन से इन्द्रियों को नियंत्रित कर निष्काम भाव से कर्म करता है, वही श्रेष्ठ है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.8",
+    "chapter": 3,
+    "verse": 8,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः ।\nशरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः ॥३-८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Perform your prescribed duty; action is better than inaction."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अपने नियत कर्म करो; कर्म अकर्म से श्रेष्ठ है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.9",
+    "chapter": 3,
+    "verse": 9,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः ।\nतदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर ॥३-९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Actions done for sacrifice free one from bondage; otherwise action binds."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यज्ञार्थ किए गए कर्म बंधन नहीं देते; अन्यथा कर्म बंधनकारी होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+
+  {
+    "id": "3.10",
+    "chapter": 3,
+    "verse": 10,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः ।\nअनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् ॥३-१०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "With sacrifice, Prajapati created beings and said: prosper through this."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "प्रजापति ने यज्ञ सहित प्रजा की रचना की और कहा—इससे वृद्धि करो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.11",
+    "chapter": 3,
+    "verse": 11,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "देवान्भावयतानेन ते देवा भावयन्तु वः ।\nपरस्परं भावयन्तः श्रेयः परमवाप्स्यथ ॥३-११॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "By this sacrifice nourish the gods, and let the gods nourish you; thus nourishing one another, you shall attain the highest good."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस यज्ञ से देवताओं को संतुष्ट करो और देवता तुम्हें संतुष्ट करें; इस प्रकार परस्पर भाव बढ़ाकर परम कल्याण को प्राप्त करोगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.12",
+    "chapter": 3,
+    "verse": 12,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः ।\nतैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः ॥३-१२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The gods, pleased by sacrifice, will grant you desired enjoyments. One who enjoys these without offering in return is a thief."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यज्ञ से तृप्त देवता तुम्हें इच्छित भोग देंगे; जो उन्हें अर्पित किए बिना भोगता है, वह चोर है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.13",
+    "chapter": 3,
+    "verse": 13,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः ।\nभुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् ॥३-१३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The righteous who eat the remnants of sacrifice are freed from all sins; others who cook only for themselves eat sin."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यज्ञ से बचे अन्न को खाने वाले पुण्यात्मा पापों से मुक्त होते हैं; जो केवल अपने लिए पकाते हैं, वे पाप खाते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.14",
+    "chapter": 3,
+    "verse": 14,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः ।\nयज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः ॥३-१४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "From food beings arise; from rain food is produced; from sacrifice rain arises; sacrifice is born of action."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अन्न से प्राणी उत्पन्न होते हैं, वर्षा से अन्न होता है; यज्ञ से वर्षा और कर्म से यज्ञ उत्पन्न होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.15",
+    "chapter": 3,
+    "verse": 15,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् ।\nतस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् ॥३-१५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Know action to arise from Brahman, and Brahman from the Imperishable; therefore Brahman is eternally established in sacrifice."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कर्म ब्रह्म से उत्पन्न है और ब्रह्म अक्षर से; इसलिए सर्वव्यापी ब्रह्म यज्ञ में प्रतिष्ठित है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.16",
+    "chapter": 3,
+    "verse": 16,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः ।\nअघायुरिन्द्रियारामो मोघं पार्थ स जीवति ॥३-१६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who does not follow this wheel set in motion lives in vain, delighting in the senses."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो इस प्रवर्तित चक्र का पालन नहीं करता, वह इन्द्रियभोग में रत होकर व्यर्थ जीवन जीता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.17",
+    "chapter": 3,
+    "verse": 17,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः ।\nआत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते ॥३-१७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "One who rejoices in the Self and is satisfied in the Self has no duty."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो आत्मा में ही रमण और तृप्त है, उसके लिए कोई कर्तव्य नहीं रहता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.18",
+    "chapter": 3,
+    "verse": 18,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन ।\nन चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः ॥३-१८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He has no gain from action or inaction, nor dependence on any being."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "उसका न कर्म से कोई प्रयोजन है न अकर्म से, और न ही किसी प्राणी पर निर्भरता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.19",
+    "chapter": 3,
+    "verse": 19,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तस्मादसक्तः सततं कार्यं कर्म समाचर ।\nअसक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः ॥३-१९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Therefore perform your duty without attachment; by doing so one attains the Supreme."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इसलिए आसक्ति रहित होकर निरंतर कर्म करो; ऐसा करने से परम पद प्राप्त होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.20",
+    "chapter": 3,
+    "verse": 20,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः ।\nलोकसंग्रहमेवापि संपश्यन्कर्तुमर्हसि ॥३-२०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Janaka and others attained perfection through action; for the welfare of the world you should act."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जनक आदि ने कर्म से ही सिद्धि पाई; लोक-संग्रह के लिए तुम्हें भी कर्म करना चाहिए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.21",
+    "chapter": 3,
+    "verse": 21,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः ।\nस यत्प्रमाणं कुरुते लोकस्तदनुवर्तते ॥३-२१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Whatever a great person does, others follow; the standard he sets, the world follows."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रेष्ठ पुरुष जैसा आचरण करता है, सामान्य लोग उसी का अनुसरण करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.22",
+    "chapter": 3,
+    "verse": 22,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किंचन ।\nनानवाप्तमवाप्तव्यं वर्त एव च कर्मणि ॥३-२२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "There is nothing for Me to do in the three worlds, nor anything unattained; yet I engage in action."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! तीनों लोकों में मेरा कोई कर्तव्य नहीं, फिर भी मैं कर्म करता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.23",
+    "chapter": 3,
+    "verse": 23,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः ।\nमम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः ॥३-२३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "If I did not act tirelessly, people would follow My path in every way."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यदि मैं कर्म न करूँ, तो सभी मनुष्य मेरा ही अनुकरण करेंगे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.24",
+    "chapter": 3,
+    "verse": 24,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् ।\nसंकरस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः ॥३-२४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "If I ceased action, these worlds would perish and I would cause confusion."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यदि मैं कर्म न करूँ, तो ये लोक नष्ट हो जाएँ और समाज में अव्यवस्था फैल जाए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.25",
+    "chapter": 3,
+    "verse": 25,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत ।\nकुर्याद्विद्वांस्तथाऽसक्तश्चिकीर्षुर्लोकसंग्रहम् ॥३-२५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "As the ignorant act with attachment, so should the wise act without attachment for the welfare of the world."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे भारत! जैसे अज्ञानी आसक्ति से कर्म करते हैं, वैसे ही ज्ञानी को लोक-कल्याण के लिए आसक्ति रहित कर्म करना चाहिए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.26",
+    "chapter": 3,
+    "verse": 26,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् ।\nजोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन् ॥३-२६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The wise should not unsettle the minds of the ignorant attached to action, but should encourage them by performing all actions with discipline."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "ज्ञानी को कर्मासक्त अज्ञानियों की बुद्धि में भ्रम नहीं उत्पन्न करना चाहिए, बल्कि स्वयं कर्म करके उन्हें प्रेरित करना चाहिए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.27",
+    "chapter": 3,
+    "verse": 27,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः ।\nअहंकारविमूढात्मा कर्ताहमिति मन्यते ॥३-२७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "All actions are performed by the modes of nature; one deluded by ego thinks, 'I am the doer.'"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "प्रकृति के गुणों द्वारा ही सभी कर्म किए जाते हैं; अहंकार से मोहित व्यक्ति स्वयं को कर्ता मानता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.28",
+    "chapter": 3,
+    "verse": 28,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः ।\nगुणा गुणेषु वर्तन्त इति मत्वा न सज्जते ॥३-२८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "But one who knows the truth about the division of the modes and actions does not become attached, knowing that the modes act upon the modes."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "गुण और कर्म के भेद को जानने वाला ज्ञानी यह समझकर आसक्त नहीं होता कि गुण ही गुणों में प्रवृत्त होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.29",
+    "chapter": 3,
+    "verse": 29,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु ।\nतानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् ॥३-२९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those deluded by the modes of nature are attached to their actions; the wise should not disturb such incomplete knowers."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "प्रकृति के गुणों से मोहित लोग कर्मों में आसक्त रहते हैं; पूर्ण ज्ञान वाला उन्हें विचलित न करे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.30",
+    "chapter": 3,
+    "verse": 30,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा ।\nनिराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः ॥३-३०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Surrender all actions to Me, with your mind on the Self, free from desire and egoism; fight without inner fever."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "सब कर्म मुझमें अर्पित करके, आशा और ममता से रहित होकर, शोक से मुक्त हो युद्ध करो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.31",
+    "chapter": 3,
+    "verse": 31,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः ।\nश्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः ॥३-३१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those who follow this teaching of Mine with faith and without resentment are freed from bondage of actions."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो श्रद्धा और बिना दोषारोपण के मेरे इस उपदेश का पालन करते हैं, वे कर्मबंधन से मुक्त होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.32",
+    "chapter": 3,
+    "verse": 32,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् ।\nसर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः ॥३-३२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Those who criticize and do not follow My teaching are deluded in all knowledge and are lost."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो द्वेषवश मेरे मत का पालन नहीं करते, वे ज्ञान में भ्रमित और नष्ट माने जाते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.33",
+    "chapter": 3,
+    "verse": 33,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि ।\nप्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति ॥३-३३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Even the wise act according to their nature; beings follow their nature—what can restraint accomplish?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "ज्ञानी भी अपनी प्रकृति के अनुसार ही कर्म करता है; प्राणी प्रकृति का अनुसरण करते हैं—निग्रह क्या करेगा?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.34",
+    "chapter": 3,
+    "verse": 34,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ ।\nतयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ ॥३-३४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Attraction and aversion exist in sense objects; one should not come under their control, for they are obstacles."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इन्द्रियों के विषयों में राग-द्वेष रहते हैं; उनके वश में नहीं होना चाहिए क्योंकि वे बाधक हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.35",
+    "chapter": 3,
+    "verse": 35,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात् ।\nस्वधर्मे निधनं श्रेयः परधर्मो भयावहः ॥३-३५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Better is one's own duty, though imperfect, than another’s duty well performed; death in one's own duty is better."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अपना धर्म दोषयुक्त भी श्रेष्ठ है; दूसरे का धर्म भयावह है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.36",
+    "chapter": 3,
+    "verse": 36,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अर्जुन उवाच ।\nअथ केन प्रयुक्तोऽयं पापं चरति पूरुषः ।\nअनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः ॥३-३६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Arjuna said: What impels a person to commit sin, even unwillingly?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन बोले—मनुष्य अनिच्छा से भी पाप क्यों करता है?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.37",
+    "chapter": 3,
+    "verse": 37,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nकाम एष क्रोध एष रजोगुणसमुद्भवः ।\nमहाशनो महापाप्मा विद्ध्येनमिह वैरिणम् ॥३-३७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "It is desire and anger, born of the mode of passion—know this to be the enemy."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यह काम और क्रोध ही हैं, जो रजोगुण से उत्पन्न होते हैं—इन्हें शत्रु जानो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.38",
+    "chapter": 3,
+    "verse": 38,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च ।\nयथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् ॥३-३८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "As fire is covered by smoke, a mirror by dust, and an embryo by the womb, so is knowledge covered by desire."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जैसे अग्नि धुएँ से ढकी होती है, वैसे ही ज्ञान काम से ढका रहता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.39",
+    "chapter": 3,
+    "verse": 39,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा ।\nकामरूपेण कौन्तेय दुष्पूरेणानलेन च ॥३-३९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Knowledge is covered by this eternal enemy in the form of desire, which is insatiable like fire."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कौन्तेय! यह अग्नि-समान अतृप्त काम ज्ञान को ढक देता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.40",
+    "chapter": 3,
+    "verse": 40,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते ।\nएतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् ॥३-४०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The senses, mind, and intellect are its seat; through them it deludes the embodied soul."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इन्द्रियाँ, मन और बुद्धि इसका निवास हैं; इनके द्वारा यह जीव को मोहित करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.41",
+    "chapter": 3,
+    "verse": 41,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ ।\nपाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् ॥३-४१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Therefore restrain the senses first and destroy this sinful enemy which destroys knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इसलिए पहले इन्द्रियों को वश में करके इस पापी शत्रु को नष्ट करो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.42",
+    "chapter": 3,
+    "verse": 42,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः ।\nमनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः ॥३-४२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The senses are superior to the body, the mind superior to the senses, the intellect superior to the mind, and the Self superior to intellect."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इन्द्रियों से मन श्रेष्ठ है, मन से बुद्धि और बुद्धि से आत्मा श्रेष्ठ है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  },
+  {
+    "id": "3.43",
+    "chapter": 3,
+    "verse": 43,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना ।\nजहि शत्रुं महाबाहो कामरूपं दुरासदम् ॥३-४३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Knowing the Self as superior to intellect, restrain the self and destroy this formidable enemy in the form of desire."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "आत्मा को बुद्धि से श्रेष्ठ जानकर, आत्मबल से कामरूपी शत्रु का नाश करो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "karma_yoga"
+    }
+  }
+]

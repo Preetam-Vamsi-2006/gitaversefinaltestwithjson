@@ -1,0 +1,1150 @@
+[
+  {
+    "id": "6.1",
+    "chapter": 6,
+    "verse": 1,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nअनाश्रितः कर्मफलं कार्यं कर्म करोति यः ।\nस संन्यासी च योगी च न निरग्निर्न चाक्रियः ॥६-१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: He who performs his duty without dependence on the fruits of action is a renunciate and a yogi, not one who has merely given up fire or action."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—जो कर्मफल का आश्रय न लेकर कर्तव्य कर्म करता है, वही संन्यासी और योगी है; न कि केवल अग्नि और कर्मों का त्याग करने वाला।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.2",
+    "chapter": 6,
+    "verse": 2,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव ।\nन ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन ॥६-२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Know that which is called renunciation to be yoga, O Pandava; for no one becomes a yogi without renouncing selfish desires."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पाण्डव! जिसे संन्यास कहा जाता है, वही योग है; क्योंकि संकल्पों का त्याग किए बिना कोई योगी नहीं बनता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.3",
+    "chapter": 6,
+    "verse": 3,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते ।\nयोगारूढस्य तस्यैव शमः कारणमुच्यते ॥६-३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "For a sage who seeks to attain yoga, action is said to be the means; for one who has attained yoga, tranquility is the means."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "योग में आरूढ़ होने की इच्छा रखने वाले मुनि के लिए कर्म साधन है और योगारूढ़ के लिए शम (शांति) साधन कहा गया है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.4",
+    "chapter": 6,
+    "verse": 4,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते ।\nसर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते ॥६-४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "When one is no longer attached to sense objects or actions, having renounced all desires, he is said to have attained yoga."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जब मनुष्य न इन्द्रिय विषयों में और न कर्मों में आसक्त होता है तथा सभी संकल्पों का त्याग कर देता है, तब वह योगारूढ़ कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.5",
+    "chapter": 6,
+    "verse": 5,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "उद्धरेदात्मनाऽत्मानं नात्मानमवसादयेत् ।\nआत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः ॥६-५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Let one uplift oneself by the Self; let not the Self be degraded. The Self alone is one’s friend and the Self alone is one’s enemy."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मनुष्य को चाहिए कि वह स्वयं अपने द्वारा अपना उद्धार करे, स्वयं को पतित न करे; क्योंकि आत्मा ही अपना मित्र है और आत्मा ही अपना शत्रु।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.6",
+    "chapter": 6,
+    "verse": 6,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः ।\nअनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत् ॥६-६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "For him who has conquered the self by the self, the self is a friend; but for one who has not, the self acts as an enemy."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिसने आत्मा द्वारा आत्मा को जीत लिया है, उसके लिए आत्मा मित्र है; जिसने नहीं जीता, उसके लिए वही आत्मा शत्रु के समान है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.7",
+    "chapter": 6,
+    "verse": 7,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः ।\nशीतोष्णसुखदुःखेषु तथा मानापमानयोः ॥६-७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Supreme Self is firmly established in one who has conquered the self and is tranquil, amid cold and heat, pleasure and pain, honor and dishonor."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिसका आत्मसंयम हो चुका है और जो शांत है, उसके लिए शीत-उष्ण, सुख-दुःख तथा मान-अपमान में परमात्मा समभाव से स्थित रहता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.8",
+    "chapter": 6,
+    "verse": 8,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः ।\nयुक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः ॥६-८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The yogi who is satisfied with knowledge and realization, who is unmoved and has conquered the senses, regarding a clod, stone, and gold alike, is said to be established in yoga."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो ज्ञान-विज्ञान से तृप्त है, स्थिर है, इन्द्रियों को जीत चुका है और मिट्टी, पत्थर तथा स्वर्ण को समान देखता है, वह योगी युक्त कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.9",
+    "chapter": 6,
+    "verse": 9,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु ।\nसाधुष्वपि च पापेषु समबुद्धिर्विशिष्यते ॥६-९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who regards well-wishers, friends, enemies, neutrals, arbiters, the hateful, relatives, the righteous, and the sinful alike excels."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो हितैषी, मित्र, शत्रु, उदासीन, मध्यस्थ, द्वेषी, बन्धु, साधु और पापी सभी में समबुद्धि रखता है, वही श्रेष्ठ है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.10",
+    "chapter": 6,
+    "verse": 10,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "योगी युञ्जीत सततमात्मानं रहसि स्थितः ।\nएकाकी यतचित्तात्मा निराशीरपरिग्रहः ॥६-१०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Let the yogi constantly practice meditation alone in solitude, controlling the mind and body, free from desires and possessions."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "योगी को चाहिए कि वह एकांत में रहकर निरंतर आत्मा को योग में लगाए, मन और शरीर को संयमित रखे तथा निराशा और संग्रह से रहित रहे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.11",
+    "chapter": 6,
+    "verse": 11,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः ।\nनात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम् ॥६-११॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "In a clean place, establish a firm seat, neither too high nor too low, covered with cloth, deer skin, and kusa grass."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "शुद्ध स्थान में अपने लिए स्थिर आसन स्थापित करे, जो न बहुत ऊँचा हो न बहुत नीचा, और उस पर वस्त्र, मृगचर्म तथा कुशा बिछे हों।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.12",
+    "chapter": 6,
+    "verse": 12,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः ।\nउपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये ॥६-१२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Seated there, having made the mind one-pointed and controlling the activities of mind and senses, let him practice yoga for self-purification."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वहाँ आसन पर बैठकर मन को एकाग्र करे और चित्त तथा इन्द्रियों की क्रियाओं को नियंत्रित कर आत्मशुद्धि के लिए योग का अभ्यास करे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.13",
+    "chapter": 6,
+    "verse": 13,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः ।\nसंप्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन् ॥६-१३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Holding the body, head, and neck erect and steady, gazing at the tip of the nose without looking around."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "शरीर, सिर और गर्दन को समान और स्थिर रखकर, दृष्टि को नासिका के अग्रभाग पर स्थिर करे और इधर-उधर न देखे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.14",
+    "chapter": 6,
+    "verse": 14,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः ।\nमनः संयम्य मच्चित्तो युक्त आसीत मत्परः ॥६-१४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "With a tranquil mind, free from fear, established in the vow of celibacy, controlling the mind and thinking of Me, let him sit, devoted to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "शांत चित्त, निर्भय, ब्रह्मचर्य व्रत में स्थित होकर, मन को संयमित कर मुझमें चित्त लगाए और मुझमें परायण होकर बैठे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.15",
+    "chapter": 6,
+    "verse": 15,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "युञ्जन्नेवं सदाऽऽत्मानं योगी नियतमानसः ।\nशान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति ॥६-१५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Thus constantly disciplining the self, the yogi with controlled mind attains the supreme peace, abiding in Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस प्रकार निरंतर आत्मसंयम करते हुए, नियत मन वाला योगी मुझमें स्थित परम शांति—निर्वाण—को प्राप्त करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.16",
+    "chapter": 6,
+    "verse": 16,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः ।\nन चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन ॥६-१६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Yoga is not for one who eats too much or too little, nor for one who sleeps too much or too little, O Arjuna."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे अर्जुन! न अधिक खाने वाले का योग होता है, न बिल्कुल न खाने वाले का; न अधिक सोने वाले का और न ही अत्यधिक जागने वाले का।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.17",
+    "chapter": 6,
+    "verse": 17,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु ।\nयुक्तस्वप्नावबोधस्य योगो भवति दुःखहा ॥६-१७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Yoga becomes the destroyer of sorrow for one who is moderate in eating and recreation, balanced in work, and regulated in sleep and wakefulness."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो आहार-विहार, कर्म, निद्रा और जागरण में संयमित है, उसके लिए योग दुःखों का नाश करने वाला बनता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.18",
+    "chapter": 6,
+    "verse": 18,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते ।\nनिःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा ॥६-१८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "When the controlled mind rests in the Self alone, free from longing for all desires, one is said to be established in yoga."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जब संयमित चित्त केवल आत्मा में स्थित हो जाता है और सभी कामनाओं से रहित हो जाता है, तब वह योगयुक्त कहलाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.19",
+    "chapter": 6,
+    "verse": 19,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता ।\nयोगिनो यतचित्तस्य युञ्जतो योगमात्मनः ॥६-१९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "As a lamp in a windless place does not flicker, so is the mind of the yogi who practices meditation on the Self."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जैसे वायुरहित स्थान में दीपक की लौ स्थिर रहती है, वैसे ही आत्मा में योग करने वाले योगी का संयमित चित्त स्थिर रहता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.20",
+    "chapter": 6,
+    "verse": 20,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यत्रोपरमते चित्तं निरुद्धं योगसेवया ।\nयत्र चैवात्मनाऽऽत्मानं पश्यन्नात्मनि तुष्यति ॥६-२०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "When the mind, restrained by the practice of yoga, becomes quiet, and one sees the Self by the self and rejoices in the Self—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जहाँ योगाभ्यास से निरुद्ध चित्त शांत हो जाता है और आत्मा द्वारा आत्मा को देखकर आत्मा में ही संतोष प्राप्त होता है—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.21",
+    "chapter": 6,
+    "verse": 21,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सुखमात्यन्तिकं यत्तद्बुद्धिग्राह्यमतीन्द्रियम् ।\nवेत्ति यत्र न चैवायं स्थितश्चलति तत्त्वतः ॥६-२१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "That supreme happiness, perceived by the intellect and beyond the senses, knowing which one never departs from the truth."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो परम सुख बुद्धि से ग्रहण किया जाता है और इन्द्रियों से परे है, उसे जानकर साधक तत्त्व से कभी विचलित नहीं होता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.22",
+    "chapter": 6,
+    "verse": 22,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यं लब्ध्वा चापरं लाभं मन्यते नाधिकं ततः ।\nयस्मिन्स्थितो न दुःखेन गुरुणाऽपि विचाल्यते ॥६-२२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Having attained this, one considers no other gain superior; established in it, one is not shaken even by the greatest sorrow."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिसे प्राप्त कर मनुष्य उससे बढ़कर कोई लाभ नहीं मानता और जिसमें स्थित होकर वह भारी दुःख से भी विचलित नहीं होता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.23",
+    "chapter": 6,
+    "verse": 23,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तं विद्याद् दुःखसंयोगवियोगं योगसंज्ञितम् ।\nस निश्चयेन योक्तव्यो योगोऽनिर्विण्णचेतसा ॥६-२३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Know that state to be yoga, which is separation from union with sorrow; this yoga should be practiced with determination and an undepressed mind."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "दुःख के संयोग से वियोग को योग कहा जाता है; इस योग का अभ्यास दृढ़ निश्चय और उत्साहित चित्त से करना चाहिए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.24",
+    "chapter": 6,
+    "verse": 24,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "संकल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषतः ।\nमनसैवेन्द्रियग्रामं विनियम्य समन्ततः ॥६-२४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Completely abandoning all desires born of imagination and restraining the senses from all sides by the mind alone—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "कल्पना से उत्पन्न सभी कामनाओं का पूर्णतः त्याग कर तथा मन के द्वारा सभी इन्द्रियों को चारों ओर से नियंत्रित करके—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+
+  {
+    "id": "6.25",
+    "chapter": 6,
+    "verse": 25,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "शनैः शनैरुपरमेद् बुद्ध्या धृतिगृहीतया ।\nआत्मसंस्थं मनः कृत्वा न किञ्चिदपि चिन्तयेत् ॥६-२५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Gradually let one attain quietude with firm resolve; fixing the mind on the Self, let him think of nothing else."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "धैर्ययुक्त बुद्धि से धीरे-धीरे मन को शांत करे, चित्त को आत्मा में स्थिर करके और किसी भी वस्तु का चिंतन न करे।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.26",
+    "chapter": 6,
+    "verse": 26,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् ।\nततस्ततो नियम्यैतदात्मन्येव वशं नयेत् ॥६-२६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "From wherever the restless and unsteady mind wanders, let one restrain it and bring it back under the control of the Self."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "यह चंचल और अस्थिर मन जहाँ-जहाँ जाता है, वहाँ-वहाँ से उसे हटाकर आत्मा के अधीन ले आए।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.27",
+    "chapter": 6,
+    "verse": 27,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् ।\nउपैति शान्तरजसं ब्रह्मभूतमकल्मषम् ॥६-२७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Supreme bliss comes to the yogi whose mind is peaceful, whose passions are calmed, who is free from sin, and who has become one with Brahman."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिस योगी का मन शांत है, रजोगुण शान्त हो गया है और जो पापरहित होकर ब्रह्मरूप हो गया है, उसे उत्तम सुख प्राप्त होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.28",
+    "chapter": 6,
+    "verse": 28,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "युञ्जन्नेवं सदाऽऽत्मानं योगी विगतकल्मषः ।\nसुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते ॥६-२८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Thus constantly disciplining the self, the yogi free from impurities attains infinite bliss through contact with Brahman."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "इस प्रकार निरंतर अभ्यास करने वाला, पापरहित योगी सहज ही ब्रह्म-स्पर्श से परम सुख प्राप्त करता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.29",
+    "chapter": 6,
+    "verse": 29,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि ।\nईक्षते योगयुक्तात्मा सर्वत्र समदर्शनः ॥६-२९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The yogi who is united with the Self sees the Self abiding in all beings and all beings in the Self; he sees the same everywhere."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "योगयुक्त आत्मा सभी प्राणियों में आत्मा को और आत्मा में सभी प्राणियों को देखता है; वह सर्वत्र समदर्शी होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.30",
+    "chapter": 6,
+    "verse": 30,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति ।\nतस्याहं न प्रणश्यामि स च मे न प्रणश्यति ॥६-३०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who sees Me everywhere and sees everything in Me, I am never lost to him, nor is he ever lost to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो मुझे सर्वत्र देखता है और सबको मुझमें देखता है, उसके लिए न मैं लुप्त होता हूँ और न वह मुझसे लुप्त होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.31",
+    "chapter": 6,
+    "verse": 31,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः ।\nसर्वथा वर्तमानोऽपि स योगी मयि वर्तते ॥६-३१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who worships Me as dwelling in all beings, abiding in unity, lives in Me in all circumstances."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो मुझे सभी प्राणियों में स्थित एकत्वभाव से भजता है, वह योगी हर अवस्था में मुझमें स्थित रहता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.32",
+    "chapter": 6,
+    "verse": 32,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन ।\nसुखं वा यदि वा दुःखं स योगी परमो मतः ॥६-३२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who sees pleasure and pain everywhere as his own, O Arjuna, is considered the highest yogi."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे अर्जुन! जो सुख और दुःख में सभी को अपने समान देखता है, वही परम योगी माना गया है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.33",
+    "chapter": 6,
+    "verse": 33,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अर्जुन उवाच ।\nयोऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन ।\nएतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् ॥६-३३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Arjuna said: O Madhusudana, this yoga of equanimity that You have taught, I do not see its steady continuity, because the mind is restless."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन बोले—हे मधुसूदन! आपने जो समत्व योग बताया है, उसकी स्थिर स्थिति मुझे मन की चंचलता के कारण संभव नहीं लगती।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.34",
+    "chapter": 6,
+    "verse": 34,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम् ।\nतस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् ॥६-३४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The mind is indeed restless, turbulent, strong, and obstinate, O Krishna; I consider its control as difficult as controlling the wind."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कृष्ण! यह मन चंचल, बलवान और दृढ़ है; इसका नियंत्रण मुझे वायु के समान अत्यंत कठिन प्रतीत होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.35",
+    "chapter": 6,
+    "verse": 35,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nअसंशयं महाबाहो मनो दुर्निग्रहं चलम् ।\nअभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते ॥६-३५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: Undoubtedly, O mighty-armed, the mind is difficult to control and restless; but it can be controlled by practice and detachment."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—हे महाबाहो! मन निस्संदेह चंचल और कठिन है, किंतु अभ्यास और वैराग्य से इसे वश में किया जा सकता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.36",
+    "chapter": 6,
+    "verse": 36,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "असंयतात्मना योगो दुष्प्राप इति मे मतिः ।\nवश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः ॥६-३६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Yoga is difficult to attain for one who is uncontrolled, but it can be attained by the disciplined person through proper means."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिसका आत्मसंयम नहीं है, उसके लिए योग कठिन है; किंतु संयमित आत्मा वाले द्वारा प्रयत्न से इसे प्राप्त किया जा सकता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.37",
+    "chapter": 6,
+    "verse": 37,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अर्जुन उवाच ।\nअयतिः श्रद्धयोपेतो योगाच्चलितमानसः ।\nअप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति ॥६-३७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Arjuna said: What is the fate of one who has faith but whose mind has wandered away from yoga and who fails to attain perfection, O Krishna?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन बोले—हे कृष्ण! श्रद्धायुक्त किंतु योग से विचलित मन वाला, सिद्धि न प्राप्त कर पाने वाला साधक किस गति को प्राप्त होता है?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.38",
+    "chapter": 6,
+    "verse": 38,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति ।\nअप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि ॥६-३८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "O mighty-armed, does he not perish like a rent cloud, having fallen from both paths, deluded on the path to Brahman?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे महाबाहो! क्या वह ब्रह्मपथ से विमुख होकर छिन्न-भिन्न बादल की तरह नष्ट तो नहीं हो जाता?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.39",
+    "chapter": 6,
+    "verse": 39,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः ।\nत्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते ॥६-३९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "This doubt of mine, O Krishna, please dispel completely; for none other than You can remove this doubt."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे कृष्ण! मेरे इस संदेह को पूर्ण रूप से दूर करें, क्योंकि आपके सिवा कोई इसका समाधान करने योग्य नहीं है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.40",
+    "chapter": 6,
+    "verse": 40,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nपार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते ।\nन हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति ॥६-४०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: O Partha, neither here nor hereafter is there destruction for him; one who does good never meets with misfortune."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—हे पार्थ! उसका न तो इस लोक में और न ही परलोक में नाश होता है; कल्याणकारी कर्म करने वाला कभी दुर्गति को प्राप्त नहीं होता।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.41",
+    "chapter": 6,
+    "verse": 41,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः ।\nशुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते ॥६-४१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Having attained the worlds of the righteous and dwelt there for many years, the fallen yogi is reborn in a pure and prosperous family."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "पुण्यात्माओं के लोकों में दीर्घकाल निवास करके, योगभ्रष्ट व्यक्ति शुद्ध और समृद्ध कुल में जन्म लेता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.42",
+    "chapter": 6,
+    "verse": 42,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अथवा योगिनामेव कुले भवति धीमताम् ।\nएतद्धि दुर्लभतरं लोके जन्म यदीदृशम् ॥६-४२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Or he is born in a family of wise yogis; such a birth is very rare in this world."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "या फिर वह बुद्धिमान योगियों के कुल में जन्म लेता है; ऐसा जन्म इस संसार में अत्यंत दुर्लभ है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.43",
+    "chapter": 6,
+    "verse": 43,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् ।\nयतते च ततो भूयः संसिद्धौ कुरुनन्दन ॥६-४३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "There he regains the spiritual wisdom of his former life and strives again for perfection, O son of the Kurus."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वहाँ वह पूर्वजन्म की बुद्धि-संयोग को प्राप्त करता है और फिर से सिद्धि के लिए प्रयत्न करता है, हे कुरुनंदन।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.44",
+    "chapter": 6,
+    "verse": 44,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः ।\nजिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते ॥६-४४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "By the force of previous practice, he is carried forward even unwillingly; even the seeker of yoga transcends ritualistic scripture."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "पूर्व अभ्यास के प्रभाव से वह अनायास ही आगे बढ़ जाता है; योग की जिज्ञासा रखने वाला भी शब्दब्रह्म से ऊपर उठ जाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.45",
+    "chapter": 6,
+    "verse": 45,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः ।\nअनेकजन्मसंसिद्धस्ततो याति परां गतिम् ॥६-४५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "But the yogi who strives diligently, purified of sins, and perfected through many births, attains the supreme goal."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "परंतु निरंतर प्रयत्न करने वाला, पापरहित योगी अनेक जन्मों की सिद्धि के बाद परम गति को प्राप्त होता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.46",
+    "chapter": 6,
+    "verse": 46,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः ।\nकर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन ॥६-४६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The yogi is superior to ascetics, superior even to the wise, and superior to ritualists; therefore, O Arjuna, become a yogi."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "योगी तपस्वियों से, ज्ञानियों से और कर्मकाण्डियों से भी श्रेष्ठ है; इसलिए हे अर्जुन! योगी बनो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  },
+  {
+    "id": "6.47",
+    "chapter": 6,
+    "verse": 47,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "योगिनामपि सर्वेषां मद्गतेनान्तरात्मना ।\nश्रद्धावान्भजते यो मां स मे युक्ततमो मतः ॥६-४७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Of all yogis, the one who worships Me with faith, with the mind absorbed in Me, is considered the most united with Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "सभी योगियों में जो श्रद्धा के साथ अंतःकरण से मुझमें स्थित होकर भजन करता है, वही मेरे मत में सर्वोत्तम योगी है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "dhyana_yoga"
+    }
+  }
+]

@@ -1,0 +1,1045 @@
+[
+  {
+    "id": "10.1",
+    "chapter": 10,
+    "verse": 1,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nभूय एव महाबाहो शृणु मे परमं वचः ।\nयत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया ॥१०-१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: Hear again, O mighty-armed Arjuna, My supreme word, which I shall speak to you for your benefit, because you are dear to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—हे महाबाहो! फिर से मेरे उस परम वचन को सुनो, जिसे मैं तुम्हारे हित के लिए, तुम्हारे प्रति स्नेह के कारण कहूँगा।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+  {
+    "id": "10.2",
+    "chapter": 10,
+    "verse": 2,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "न मे विदुः सुरगणाः प्रभवं न महर्षयः ।\nअहमादिर्हि देवानां महर्षीणां च सर्वशः ॥१०-२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Neither the hosts of gods nor the great sages know My origin, for I am the source of the gods and the great sages in every way."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "न तो देवगण और न ही महर्षि मेरे उत्पत्ति-तत्त्व को जानते हैं, क्योंकि मैं ही समस्त देवताओं और महर्षियों का आदि कारण हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+  {
+    "id": "10.3",
+    "chapter": 10,
+    "verse": 3,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यो मामजमनादिं च वेत्ति लोकमहेश्वरम् ।\nअसम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते ॥१०-३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who knows Me as unborn and beginningless, as the Supreme Lord of the worlds, is undeluded among mortals and is freed from all sins."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो मुझे अजन्मा, अनादि और लोकों का महान ईश्वर जानता है, वह मनुष्यों में मोहित नहीं होता और समस्त पापों से मुक्त हो जाता है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+  {
+    "id": "10.4",
+    "chapter": 10,
+    "verse": 4,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः ।\nसुखं दुःखं भवोऽभावो भयं चाभयमेव च ॥१०-४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Intellect, knowledge, freedom from delusion, forgiveness, truthfulness, control of the senses, control of the mind; pleasure and pain, birth and death, fear and fearlessness—"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "बुद्धि, ज्ञान, असम्मोह, क्षमा, सत्य, दम, शम, सुख-दुःख, उत्पत्ति-लय तथा भय और अभय—"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+  {
+    "id": "10.5",
+    "chapter": 10,
+    "verse": 5,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः ।\nभवन्ति भावा भूतानां मत्त एव पृथग्विधाः ॥१०-५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Non-violence, equanimity, contentment, austerity, charity, fame and infamy—all these diverse qualities of beings arise from Me alone."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अहिंसा, समता, तुष्टि, तप, दान, यश और अपयश—प्राणियों के ये विविध भाव मुझसे ही उत्पन्न होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.6",
+    "chapter": 10,
+    "verse": 6,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा ।\nमद्भावा मानसा जाता येषां लोक इमाः प्रजाः ॥१०-६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The seven great sages, the four ancient sages, and the Manus are born from My mind; from them come all the creatures in the world."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "सात महर्षि, चार प्राचीन ऋषि और मनु—ये सभी मेरे मन से उत्पन्न हुए हैं, जिनसे यह सम्पूर्ण प्रजा उत्पन्न हुई है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.7",
+    "chapter": 10,
+    "verse": 7,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः ।\nसोऽविकम्पेन योगेन युज्यते नात्र संशयः ॥१०-७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "He who truly knows My divine manifestations and yogic power is united with Me by unwavering devotion—there is no doubt of this."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो मेरी इस विभूति और योग को तत्त्व से जानता है, वह अविचल योग से मुझमें स्थित हो जाता है—इसमें कोई संदेह नहीं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.8",
+    "chapter": 10,
+    "verse": 8,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते ।\nइति मत्वा भजन्ते मां बुधा भावसमन्विताः ॥१०-८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I am the source of all; from Me everything proceeds. Knowing this, the wise worship Me with devotion."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं ही सबका कारण हूँ, मुझसे ही सब कुछ उत्पन्न होता है—ऐसा जानकर बुद्धिमान लोग भक्ति भाव से मेरी उपासना करते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.9",
+    "chapter": 10,
+    "verse": 9,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम् ।\nकथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च ॥१०-९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "With their minds fixed on Me and their lives devoted to Me, enlightening one another and always speaking of Me, they are satisfied and joyful."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जिनका चित्त मुझमें लगा है, जिनके प्राण मुझमें स्थित हैं, वे परस्पर मुझे बताते हुए और मेरा गुणगान करते हुए सदा संतुष्ट और आनंदित रहते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.10",
+    "chapter": 10,
+    "verse": 10,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् ।\nददामि बुद्धियोगं तं येन मामुपयान्ति ते ॥१०-१०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "To those who are constantly devoted to Me and worship Me with love, I give the understanding by which they come to Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो लोग निरंतर प्रेमपूर्वक मेरी भक्ति करते हैं, उन्हें मैं वह बुद्धियोग देता हूँ जिससे वे मुझे प्राप्त होते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.11",
+    "chapter": 10,
+    "verse": 11,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "तेषामेवानुकम्पार्थमहमज्ञानजं तमः ।\nनाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता ॥१०-११॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Out of compassion for them, dwelling in their hearts, I destroy the darkness born of ignorance with the luminous lamp of knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "उन पर अनुग्रह करने के लिए, उनके हृदय में स्थित होकर, मैं ज्ञान के प्रकाश से अज्ञानजन्य अंधकार को नष्ट करता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.12",
+    "chapter": 10,
+    "verse": 12,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अर्जुन उवाच ।\nपरं ब्रह्म परं धाम पवित्रं परमं भवान् ।\nपुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम् ॥१०-१२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Arjuna said: You are the Supreme Brahman, the supreme abode, the supreme purifier—the eternal, divine Person, the primal God, unborn and all-pervading."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अर्जुन बोले—आप परम ब्रह्म, परम धाम, परम पवित्र, शाश्वत दिव्य पुरुष, आदिदेव, अजन्मा और सर्वव्यापी हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.13",
+    "chapter": 10,
+    "verse": 13,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा ।\nअसितो देवलो व्यासः स्वयं चैव ब्रवीषि मे ॥१०-१३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "All the sages proclaim You so, as do the divine sage Narada, Asita, Devala, Vyasa—and You Yourself say so to me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "सभी ऋषि आपको ऐसा ही कहते हैं—देवर्षि नारद, असित, देवल, व्यास—और स्वयं आप भी मुझसे ऐसा ही कहते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.14",
+    "chapter": 10,
+    "verse": 14,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव ।\nन हि ते भगवन् व्यक्तिं विदुर्देवा न दानवाः ॥१०-१४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I believe all that You have said to me to be true, O Keshava. Neither the gods nor the demons know Your manifestation."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे केशव! आप मुझसे जो कुछ कहते हैं, उसे मैं पूर्णतः सत्य मानता हूँ; क्योंकि न देवता और न ही दानव आपके स्वरूप को जानते हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.15",
+    "chapter": 10,
+    "verse": 15,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "स्वयमेवात्मनाऽत्मानं वेत्थ त्वं पुरुषोत्तम ।\nभूतभावन भूतेश देवदेव जगत्पते ॥१०-१५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Indeed, You Yourself know Yourself by Yourself, O Supreme Person, source of beings, Lord of beings, God of gods, ruler of the universe."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पुरुषोत्तम! आप ही स्वयं अपने आप को जानते हैं; आप भूतों के उत्पत्तिकर्ता, भूतों के स्वामी, देवों के देव और जगत के पति हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.16",
+    "chapter": 10,
+    "verse": 16,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः ।\nयाभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि ॥१०-१६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "You should describe fully Your divine manifestations by which You pervade and sustain these worlds."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "आप अपनी उन दिव्य विभूतियों का पूर्ण वर्णन करने योग्य हैं, जिनसे आप इन समस्त लोकों को व्याप्त करके स्थित हैं।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.17",
+    "chapter": 10,
+    "verse": 17,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन् ।\nकेषु केषु च भावेषु चिन्त्योऽसि भगवन्मया ॥१०-१७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "How may I know You, O Yogin, by constantly meditating on You? In which aspects or manifestations are You to be contemplated by me?"
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे योगेश्वर! मैं आपको निरंतर चिंतन करते हुए कैसे जानूँ? हे भगवान! किन-किन भावों में आपका चिंतन किया जाए?"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.18",
+    "chapter": 10,
+    "verse": 18,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "विस्तरेणात्मनो योगं विभूतिं च जनार्दन ।\nभूयः कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम् ॥१०-१८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Tell me again in detail, O Janardana, of Your yogic power and divine manifestations; for I am never satiated hearing Your nectar-like words."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे जनार्दन! अपने योग और विभूतियों का फिर से विस्तारपूर्वक वर्णन कीजिए; क्योंकि आपके अमृतमय वचनों को सुनकर मेरी तृप्ति नहीं होती।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.19",
+    "chapter": 10,
+    "verse": 19,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "श्रीभगवानुवाच ।\nहन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः ।\nप्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे ॥१०-१९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "The Blessed Lord said: Very well, I shall describe to you My divine manifestations, but only the principal ones, O best of the Kurus, for there is no end to My expanse."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "श्रीभगवान बोले—हे कुरुश्रेष्ठ! मैं तुम्हें अपनी प्रमुख दिव्य विभूतियाँ बताऊँगा, क्योंकि मेरे विस्तार का कोई अंत नहीं है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.20",
+    "chapter": 10,
+    "verse": 20,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः ।\nअहमादिश्च मध्यं च भूतानामन्त एव च ॥१०-२०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I am the Self, O Gudakesha, seated in the hearts of all beings; I am the beginning, the middle, and also the end of all beings."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे गुडाकेश! मैं समस्त प्राणियों के हृदय में स्थित आत्मा हूँ; मैं ही सबका आदि, मध्य और अंत हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+  {
+    "id": "10.21",
+    "chapter": 10,
+    "verse": 21,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान् ।\nमरीचिर्मरुतामस्मि नक्षत्राणामहं शशी ॥१०-२१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among the Adityas I am Vishnu; among lights I am the radiant sun; among the Maruts I am Marichi; among the stars I am the moon."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "आदित्यों में मैं विष्णु हूँ, ज्योतियों में प्रकाशमान सूर्य हूँ, मरुतों में मरीचि हूँ और नक्षत्रों में चंद्रमा हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.22",
+    "chapter": 10,
+    "verse": 22,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "वेदानां सामवेदोऽस्मि देवानामस्मि वासवः ।\nइन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना ॥१०-२२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among the Vedas I am the Sama Veda; among the gods I am Indra; among the senses I am the mind; among living beings I am consciousness."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वेदों में मैं सामवेद हूँ, देवताओं में इन्द्र हूँ, इन्द्रियों में मन हूँ और प्राणियों में चेतना हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.23",
+    "chapter": 10,
+    "verse": 23,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम् ।\nवसूनां पावकश्चास्मि मेरुः शिखरिणामहम् ॥१०-२३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among the Rudras I am Shiva; among the Yakshas and Rakshasas I am Kubera; among the Vasus I am Fire; among mountains I am Meru."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "रुद्रों में मैं शंकर हूँ, यक्ष-राक्षसों में कुबेर हूँ, वसुओं में अग्नि हूँ और पर्वतों में मेरु हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.24",
+    "chapter": 10,
+    "verse": 24,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम् ।\nसेनानीनामहं स्कन्दः सरसामस्मि सागरः ॥१०-२४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among priests, O Arjuna, know Me to be Brihaspati; among commanders I am Skanda; among bodies of water I am the ocean."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे पार्थ! पुरोहितों में मैं बृहस्पति हूँ, सेनानियों में स्कन्द हूँ और जलाशयों में समुद्र हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.25",
+    "chapter": 10,
+    "verse": 25,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम् ।\nयज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः ॥१०-२५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among the great sages I am Bhrigu; among words I am the single syllable Om; among sacrifices I am the sacrifice of chanting; among immovable things I am the Himalayas."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "महर्षियों में मैं भृगु हूँ, वाणी में एकाक्षर ओंकार हूँ, यज्ञों में जपयज्ञ हूँ और स्थावरों में हिमालय हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.26",
+    "chapter": 10,
+    "verse": 26,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः ।\nगन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः ॥१०-२६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among all trees I am the Ashvattha; among divine sages I am Narada; among Gandharvas I am Chitraratha; among perfected beings I am Kapila."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "सब वृक्षों में मैं अश्वत्थ हूँ, देवर्षियों में नारद हूँ, गन्धर्वों में चित्ररथ हूँ और सिद्धों में कपिल मुनि हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.27",
+    "chapter": 10,
+    "verse": 27,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम् ।\nऐरावतं गजेन्द्राणां नराणां च नराधिपम् ॥१०-२७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among horses know Me as Ucchaishravas, born of nectar; among elephants I am Airavata; among men I am the king."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "घोड़ों में मुझे अमृत से उत्पन्न उच्चैःश्रवा जानो, हाथियों में ऐरावत और मनुष्यों में राजा हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.28",
+    "chapter": 10,
+    "verse": 28,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "आयुधानामहं वज्रं धेनूनामस्मि कामधुक् ।\nप्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः ॥१०-२८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among weapons I am the thunderbolt; among cows I am Kamadhenu; I am Kandarpa, the cause of procreation; among serpents I am Vasuki."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अस्त्रों में मैं वज्र हूँ, गौओं में कामधेनु हूँ, प्रजनन का कारण कामदेव हूँ और सर्पों में वासुकि हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.29",
+    "chapter": 10,
+    "verse": 29,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अनन्तश्चास्मि नागानां वरुणो यादसामहम् ।\nपितॄणामर्यमा चास्मि यमः संयमतामहम् ॥१०-२९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among Nagas I am Ananta; among aquatic beings I am Varuna; among the ancestors I am Aryaman; among controllers I am Yama."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "नागों में मैं अनन्त हूँ, जलचरों में वरुण हूँ, पितरों में अर्यमा हूँ और संयम रखने वालों में यम हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.30",
+    "chapter": 10,
+    "verse": 30,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम् ।\nमृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम् ॥१०-३०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among demons I am Prahlada; among measures I am Time; among beasts I am the lion; among birds I am Garuda."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "दैत्यों में मैं प्रह्लाद हूँ, गणना करने वालों में काल हूँ, पशुओं में सिंह हूँ और पक्षियों में गरुड़ हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.31",
+    "chapter": 10,
+    "verse": 31,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "पवनः पवतामस्मि रामः शस्त्रभृतामहम् ।\nझषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी ॥१०-३१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among purifiers I am the wind; among wielders of weapons I am Rama; among fishes I am the shark; among rivers I am the Ganges."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "पवित्र करने वालों में मैं पवन हूँ, शस्त्रधारियों में राम हूँ, मछलियों में मकर हूँ और नदियों में गंगा हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.32",
+    "chapter": 10,
+    "verse": 32,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन ।\nअध्यात्मविद्या विद्यानां वादः प्रवदतामहम् ॥१०-३२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among creations I am the beginning, the middle, and the end; among sciences I am the science of the Self; among disputers I am the art of debate."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे अर्जुन! सृष्टियों का आदि, मध्य और अंत मैं ही हूँ; विद्याओं में अध्यात्मविद्या हूँ और वाद करने वालों में वाद हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.33",
+    "chapter": 10,
+    "verse": 33,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अक्षराणामकारोऽस्मि द्वन्द्वः सामासिकस्य च ।\nअहमेवाक्षयः कालो धाताऽहं विश्वतोमुखः ॥१०-३३॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among letters I am the letter A; among compounds I am the dual; I am imperishable Time; I am the creator facing all sides."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "अक्षरों में मैं 'अ' हूँ, समासों में द्वंद्व हूँ; मैं ही अक्षय काल हूँ और सर्वतोमुख धाता हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.34",
+    "chapter": 10,
+    "verse": 34,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम् ।\nकीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा ॥१०-३४॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "I am all-devouring Death and the origin of future beings; among women I am fame, prosperity, speech, memory, intelligence, firmness, and forgiveness."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "मैं सबका संहार करने वाली मृत्यु हूँ और भविष्य में होने वालों की उत्पत्ति भी हूँ; स्त्रियों में कीर्ति, श्री, वाणी, स्मृति, मेधा, धृति और क्षमा हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.35",
+    "chapter": 10,
+    "verse": 35,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "बृहत्साम तथा साम्नां गायत्री छन्दसामहम् ।\nमासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः ॥१०-३५॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among the Sama hymns I am the Brihat-sama; among meters I am Gayatri; among months I am Margashirsha; among seasons I am spring."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "सामवेद के गीतों में मैं बृहत्साम हूँ, छन्दों में गायत्री हूँ, महीनों में मार्गशीर्ष और ऋतुओं में वसन्त हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.36",
+    "chapter": 10,
+    "verse": 36,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "द्युतं छलयतामस्मि तेजस्तेजस्विनामहम् ।\nजयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम् ॥१०-३६॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among the deceitful I am gambling; among the splendid I am splendor; I am victory, effort, and the goodness of the good."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "छल करने वालों में मैं जुआ हूँ, तेजस्वियों में तेज हूँ; मैं विजय, उद्योग और सात्त्विकों का सत्त्व हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.37",
+    "chapter": 10,
+    "verse": 37,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः ।\nमुनीनामप्यहं व्यासः कवीनामुशना कविः ॥१०-३७॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among the Vrishnis I am Vasudeva; among the Pandavas I am Arjuna; among sages I am Vyasa; among poets I am Ushanas."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "वृष्णियों में मैं वासुदेव हूँ, पाण्डवों में धनञ्जय हूँ, मुनियों में व्यास हूँ और कवियों में उशना हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.38",
+    "chapter": 10,
+    "verse": 38,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम् ।\nमौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम् ॥१०-३८॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Among punishers I am the rod; among those who seek victory I am statesmanship; among secrets I am silence; among the wise I am knowledge."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "संयम रखने वालों में मैं दण्ड हूँ, विजय चाहने वालों में नीति हूँ; रहस्यों में मौन हूँ और ज्ञानी जनों में ज्ञान हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.39",
+    "chapter": 10,
+    "verse": 39,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यच्चापि सर्वभूतानां बीजं तदहमर्जुन ।\nन तदस्ति विनायस्यान्मया भूतं चराचरम् ॥१०-३९॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Whatever is the seed of all beings, that I am, O Arjuna; nothing moving or unmoving exists without Me."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे अर्जुन! समस्त प्राणियों का जो बीज है, वह मैं ही हूँ; मेरे बिना कोई भी चर-अचर वस्तु नहीं है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+
+  {
+    "id": "10.40",
+    "chapter": 10,
+    "verse": 40,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप ।\nएष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया ॥१०-४०॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "There is no end to My divine manifestations, O Arjuna; what has been declared is only a brief illustration of My splendor."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे परन्तप! मेरी दिव्य विभूतियों का कोई अंत नहीं है; यह तो केवल मेरे विस्तार का संक्षिप्त वर्णन है।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+  {
+    "id": "10.41",
+    "chapter": 10,
+    "verse": 41,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा ।\nतत्तदेवावगच्छ त्वं मम तेजोंऽशसंभवम् ॥१०-४१॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "Know that whatever being is glorious, prosperous, or powerful, springs from but a portion of My splendor."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "जो भी ऐश्वर्ययुक्त, तेजस्वी या शक्तिशाली है, उसे तुम मेरे तेज के अंश से उत्पन्न जानो।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  },
+  {
+    "id": "10.42",
+    "chapter": 10,
+    "verse": 42,
+    "sanskrit": {
+      "script": "devanagari",
+      "text": "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन ।\nविष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत् ॥१०-४२॥"
+    },
+    "translations": {
+      "english": {
+        "type": "meaning",
+        "text": "But what need is there, Arjuna, for this detailed knowledge? I sustain the entire universe with a single fragment of Myself."
+      },
+      "hindi": {
+        "type": "meaning",
+        "text": "हे अर्जुन! इस विस्तृत ज्ञान से क्या प्रयोजन? मैं अपने एक अंश से ही समस्त जगत को धारण करके स्थित हूँ।"
+      }
+    },
+    "metadata": {
+      "source_sanskrit": "Wikisource",
+      "source_translation": "bhagavadgita.com",
+      "domain": "vibhuti_yoga"
+    }
+  }
+]
+
