@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Bhagavad Gita Retrieval System</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ================= NAVBAR ================= -->
+<header class="navbar">
+  <div class="container nav-content">
+
+    <div class="logo">Bhagavad Gītā</div>
+
+    <div class="right-section">
+
+      <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About</a>
+        <a href="#team">TeamXplore</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <button class="glow-btn">Translate</button>
+
+    </div>
+  </div>
+</header>
+
+
+<!-- ================= HERO ================= -->
+<section id="home" class="hero">
+
+  <video autoplay muted loop playsinline class="hero-video">
+    <source src="hero.mp4" type="video/mp4">
+  </video>
+
+  <div class="hero-overlay">
+    <h1>Deterministic Multilingual Retrieval System</h1>
+    <p>Faithful • Traceable • Hallucination-Free Verse Access</p>
+    <a href="#about" class="btn">Explore More</a>
+  </div>
+
+</section>
+
+
+<!-- ================= ABOUT ================= -->
+<section id="about" class="section">
+  <div class="container">
+    <h2>About The Project</h2>
+    <p>
+      A deterministic retrieval-based system ensuring faithful verse matching
+      from a structured JSON corpus covering all 18 chapters (~700 verses).
+      Zero hallucination. Fully traceable. Academically reliable.
+    </p>
+
+    <div class="features">
+      <div class="card">
+        <h3>Faithful Retrieval</h3>
+        <p>Exact-match lookup from curated dataset.</p>
+      </div>
+
+      <div class="card">
+        <h3>Multilingual Support</h3>
+        <p>Six supported languages with deterministic output.</p>
+      </div>
+
+      <div class="card">
+        <h3>Deterministic Architecture</h3>
+        <p>Reproducible results for identical inputs.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================= TEAM ================= -->
+<section id="team" class="section alt">
+  <div class="container">
+    <h2>TeamXplore</h2>
+
+    <div class="team-grid">
+      <div class="team-card">
+        <h3>Preetam Vamsi</h3>
+        <p>Full Stack Developer</p>
+      </div>
+
+      <div class="team-card">
+        <h3>Research Engineer</h3>
+        <p>Dataset & Retrieval Specialist</p>
+      </div>
+
+      <div class="team-card">
+        <h3>UI/UX Designer</h3>
+        <p>Frontend Architecture & Experience</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ================= CONTACT ================= -->
+<section id="contact" class="section">
+  <div class="container">
+    <h2>Contact Us</h2>
+
+    <form action="https://formsubmit.co/gollapalli.preethamvamshi2006@gmail.com" method="POST" class="contact-form">
+
+  <input type="text" name="name" placeholder="Your Name" required>
+  <input type="email" name="email" placeholder="Your Email" required>
+  <textarea name="message" placeholder="Your Message" required></textarea>
+
+  <!-- Prevent Spam -->
+  <input type="hidden" name="_captcha" value="false">
+
+  <button type="submit" class="btn">Send Message</button>
+
+</form>
+
+
+    <p class="contact-email">
+      Email: gollapalli.preethamvamshi2006@gmail.com
+    </p>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <p>© 2026 Bhagavad Gita Retrieval System | Academic Integrity Focused</p>
+</footer>
+
+
+<script>
+window.addEventListener("scroll", function() {
+  const nav = document.querySelector(".navbar");
+  if (window.scrollY > 50) {
+    nav.classList.add("scrolled");
+  } else {
+    nav.classList.remove("scrolled");
+  }
+});
+</script>
+
+</body>
+</html>
