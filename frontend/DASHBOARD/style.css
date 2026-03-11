@@ -288,3 +288,56 @@ body {
 .story {
   width: 100%;
 }
+/* ================= HAMBURGER ================= */
+
+.hamburger {
+  display: none;
+  font-size: 26px;
+  cursor: pointer;
+  color: white;
+}
+
+.navbar.scrolled .hamburger {
+  color: #8B5E3C;
+}
+
+
+/* ================= MOBILE NAVBAR ================= */
+
+@media (max-width: 768px) {
+
+  .hamburger {
+    display: block;
+  }
+
+  .right-section {
+    position: fixed;
+    top: 0;
+    right: -100%;
+    height: 100vh;
+    width: 260px;
+    background: white;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    transition: 0.3s ease;
+    box-shadow: -5px 0 20px rgba(0,0,0,0.1);
+  }
+
+  .right-section.active {
+    right: 0;
+  }
+
+  .right-section nav {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .navbar nav a {
+    color: #8B5E3C;
+    font-size: 18px;
+  }
+
+}
